@@ -1,0 +1,71 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 40
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-17 ; Times: 5
+	Date: 2014-07-18 ; Times: 3
+	Date: 2014-07-30 ; Times: 1
+	Date: 2014-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Phractocephalus" ; Times: 2
+	Query: "Abudefduf declivifrons" ; Times: 1
+	Query: "Stylephorus" ; Times: 1
+	Query: "chromis crusma" ; Times: 2
+	Query: "trichomycterus" ; Times: 3
+	Query: "KU 65090" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 437 download events in this period)
+Total number of records downloaded: 341 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 337
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-15 ; Times: 1
+	Date: 2014-07-18 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Macropus" ; Times: 1
+	Query: "chromis crusma" ; Times: 5
+	Query: "Abudefduf declivifrons" ; Times: 1
+	Query: "Chromis atrilobata" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 81
+Total number of records retrieved from searches: 520
+Number of download events that retrieved data from the resource: 15
+Total number of records downloaded: 489
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 81
+Total number of records retrieved from searches: 520
+Number of download events that retrieved data from the resource: 15
+Total number of records downloaded: 489
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
