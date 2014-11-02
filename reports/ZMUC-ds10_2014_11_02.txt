@@ -1,0 +1,79 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 27
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-20 ; Times: 3
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-25 ; Times: 1
+	Date: 2014-10-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 31783" ; Times: 1
+	Query: "KU 31782" ; Times: 1
+	Query: "KU 29663" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Lutjanus argentiventris" ; Times: 2
+	Query: "KU 31784" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Ostracion meleagris" ; Times: 2
+	Query: "haplophryne" ; Times: 1
+	Query: "27344" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 166 download events in this period)
+Total number of records downloaded: 54 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 47
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-20 ; Times: 1
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Paraguay" ; Times: 1
+	Query: "Lutjanus argentiventris" ; Times: 1
+	Query: "MINDORO" ; Times: 1
+	Query: "Sardinops type:specimen" ; Times: 1
+	Query: "Sardina type:specimen" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 125
+Total number of records retrieved from searches: 757
+Number of download events that retrieved data from the resource: 25
+Total number of records downloaded: 1472
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 125
+Total number of records retrieved from searches: 757
+Number of download events that retrieved data from the resource: 25
+Total number of records downloaded: 1472
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
