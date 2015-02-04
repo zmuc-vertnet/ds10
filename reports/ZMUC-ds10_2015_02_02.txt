@@ -1,0 +1,74 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Costa Rica ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-07 ; Times: 4
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-13 ; Times: 2
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mystacina" ; Times: 1
+	Query: "30795" ; Times: 1
+	Query: "aru island" ; Times: 1
+	Query: "Las perlas" ; Times: 1
+	Query: "11941 ku" ; Times: 1
+	Query: "hyphessobrycon loretoensis" ; Times: 2
+	Query: "Schindleria praematura" ; Times: 1
+	Query: "Schindleria praematura 15" ; Times: 1
+	Query: "specificepithet:pacificum genus:Diplectrum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 445 download events in this period)
+Total number of records downloaded: 19 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 19
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aru island" ; Times: 1
+	Query: "Indonesia (Kai OR Kei) AND (NOT Aves NOT Mammalia)" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 160
+Total number of records retrieved from searches: 837
+Number of download events that retrieved data from the resource: 3
+Total number of records downloaded: 19
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 170
+Total number of records retrieved from searches: 851
+Number of download events that retrieved data from the resource: 35
+Total number of records downloaded: 1753
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
