@@ -1,0 +1,82 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 128
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 8
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 8
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-27 ; Times: 11
+	Date: 2015-03-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "mentodus mesalirus" ; Times: 2
+	Query: "mirorictus" ; Times: 1
+	Query: "year >= 1839 year <= 1839" ; Times: 1
+	Query: "mentodus crassus" ; Times: 2
+	Query: "platytroctes apus" ; Times: 2
+	Query: "minous trachycephalus" ; Times: 2
+	Query: "KU 65372" ; Times: 1
+	Query: "KU 61871" ; Times: 1
+	Query: "KU 65375" ; Times: 1
+	Query: "KU 65374" ; Times: 1
+	Query: "KU 65395" ; Times: 1
+	Query: "KU 65379" ; Times: 1
+	Query: "KU 65393" ; Times: 1
+	Query: "lacerta zmuc" ; Times: 1
+	Query: "searsia koefoedi" ; Times: 1
+	Query: "KU 41411" ; Times: 1
+	Query: "Holtbyrnia cyanocephala" ; Times: 2
+	Query: "trilineata zmuc" ; Times: 1
+	Query: "searsioides" ; Times: 1
+	Query: "minous" ; Times: 2
+	Query: "KU 42613" ; Times: 1
+	Query: "ambassis urotaenia" ; Times: 4
+	Query: "maulisia microlepis" ; Times: 1
+	Query: "KU 65414" ; Times: 1
+	Query: "KU 65380" ; Times: 1
+	Query: "KU 65381" ; Times: 1
+	Query: "Holtbyrnia innesi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 211
+Total number of records retrieved from searches: 988
+Number of download events that retrieved data from the resource: 6
+Total number of records downloaded: 287
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 221
+Total number of records retrieved from searches: 1002
+Number of download events that retrieved data from the resource: 38
+Total number of records downloaded: 2021
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
