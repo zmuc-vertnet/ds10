@@ -1,0 +1,92 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 43
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-08 ; Times: 4
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 25127" ; Times: 2
+	Query: "49339" ; Times: 3
+	Query: "Lampetra fluviatilis" ; Times: 1
+	Query: "KU 69831" ; Times: 2
+	Query: "ostracion meleagris" ; Times: 2
+	Query: "54847" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "leiognathus splendens" ; Times: 1
+	Query: "scorpaenopsis diabolus" ; Times: 1
+	Query: "58062" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 976 download events in this period)
+Total number of records downloaded: 207 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 207
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "subocularis" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 229
+Total number of records retrieved from searches: 1031
+Number of download events that retrieved data from the resource: 12
+Total number of records downloaded: 494
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 239
+Total number of records retrieved from searches: 1045
+Number of download events that retrieved data from the resource: 44
+Total number of records downloaded: 2228
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
