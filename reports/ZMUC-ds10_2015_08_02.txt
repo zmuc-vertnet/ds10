@@ -1,0 +1,187 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 351
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 80
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 4
+	Date: 2015-07-07 ; Times: 13
+	Date: 2015-07-08 ; Times: 13
+	Date: 2015-07-09 ; Times: 14
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-14 ; Times: 11
+	Date: 2015-07-15 ; Times: 6
+	Date: 2015-07-18 ; Times: 9
+	Date: 2015-07-19 ; Times: 6
+	Date: 2015-07-20 ; Times: 5
+	Date: 2015-07-21 ; Times: 3
+	Date: 2015-07-22 ; Times: 6
+	Date: 2015-07-23 ; Times: 6
+	Date: 2015-07-24 ; Times: 7
+	Date: 2015-07-27 ; Times: 3
+	Date: 2015-07-30 ; Times: 2
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sardinella oman" ; Times: 2
+	Query: "22774" ; Times: 1
+	Query: "chirocentrus gulf" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "cheilodipterus lineatus" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "archamia bleekeri oman" ; Times: 1
+	Query: "62346" ; Times: 1
+	Query: "Carapidae Red Sea" ; Times: 2
+	Query: "microgobius emblematicus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "catalognumber:16186 institutioncode:zmuc" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "gerres oman" ; Times: 2
+	Query: "tylosurus oman" ; Times: 2
+	Query: "diodon liturosus" ; Times: 2
+	Query: "42291" ; Times: 1
+	Query: "hemitaurichthys zoster" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "ophichthidae oman" ; Times: 2
+	Query: "naucrates ductor gulf" ; Times: 1
+	Query: "carangoides praeustus" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "antennablennius" ; Times: 1
+	Query: "solenostomus gulf" ; Times: 1
+	Query: "parablennius pilicornis" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "thryssa vitrirostris" ; Times: 1
+	Query: "62176" ; Times: 1
+	Query: "archamia oman" ; Times: 1
+	Query: "clupeidae oman" ; Times: 1
+	Query: "escualosa thoracata" ; Times: 1
+	Query: "Callionymus persicus" ; Times: 2
+	Query: "thryssa oman" ; Times: 1
+	Query: "ku 7425" ; Times: 1
+	Query: "petroscirtes ancylodon" ; Times: 1
+	Query: "scomberoides oman" ; Times: 1
+	Query: "Callionymus erythraeus" ; Times: 1
+	Query: "nematalosa gulf" ; Times: 1
+	Query: "cynoglossus arel" ; Times: 1
+	Query: "thryssa setirostris" ; Times: 2
+	Query: "chilomycterus reticulatus" ; Times: 1
+	Query: "carapidae gulf" ; Times: 2
+	Query: "26305" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "Callionymus filamentosus gulf" ; Times: 1
+	Query: "cynoglossus bilineatus persian gulf" ; Times: 1
+	Query: "pristis pectinata" ; Times: 3
+	Query: "pomadasys maculatus oman" ; Times: 1
+	Query: "pentaprion longimanus" ; Times: 2
+	Query: "cynoglossus bilineatus gulf" ; Times: 2
+	Query: "36223" ; Times: 1
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "antennablennius simonyi" ; Times: 4
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "Regalecus" ; Times: 3
+	Query: "carapidae red sea" ; Times: 1
+	Query: "arnoglossus aspilos" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "62178" ; Times: 1
+	Query: "ariomma indica" ; Times: 1
+	Query: "apogon fasciatus oman" ; Times: 1
+	Query: "cynoglossus red sea" ; Times: 1
+	Query: "Encheliophis homei" ; Times: 2
+	Query: "apogonidae oman" ; Times: 2
+	Query: "alectis gulf" ; Times: 1
+	Query: "pellona ditchela" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "engyprosopon gulf" ; Times: 1
+	Query: "carangoides fulvoguttatus" ; Times: 1
+	Query: "KU 61121" ; Times: 1
+	Query: "exostoma labiatum" ; Times: 1
+	Query: "Callionymus marleyi" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "parastromateus gulf" ; Times: 1
+	Query: "acentrogobius dayi" ; Times: 1
+	Query: "dactyloptena gilberti" ; Times: 1
+	Query: "thryssa hamiltonii" ; Times: 1
+	Query: "sardinella sindensis" ; Times: 1
+	Query: "sardinella melanura" ; Times: 1
+	Query: "hetereleotris zonata" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "atropus" ; Times: 1
+	Query: "echeneidae persian gulf" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "Megalaspis gulf" ; Times: 1
+	Query: "KU 12649" ; Times: 1
+	Query: "capoeta" ; Times: 3
+	Query: "Hemiramphus marginatus" ; Times: 1
+	Query: "KU 890" ; Times: 1
+	Query: "cynoglossus puncticeps gulf" ; Times: 1
+	Query: "Parachaeturichthys polynema" ; Times: 1
+	Query: "selaroides gulf" ; Times: 1
+	Query: "lobulogobius omanensis" ; Times: 1
+	Query: "carangoides armatus gulf" ; Times: 1
+	Query: "Centriscus gulf" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1084 download events in this period)
+Total number of records downloaded: 18 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "namibia" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Regalecus" ; Times: 1
+	Query: "regalecus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 415
+Total number of records retrieved from searches: 1629
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 1416
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 425
+Total number of records retrieved from searches: 1643
+Number of download events that retrieved data from the resource: 59
+Total number of records downloaded: 3150
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
