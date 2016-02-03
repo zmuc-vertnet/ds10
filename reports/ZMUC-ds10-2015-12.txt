@@ -1,0 +1,68 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 70
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Russia ; Times: 6
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-07 ; Times: 7
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "diplobatis" ; Times: 1
+	Query: "pristis pectinata" ; Times: 2
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "ku 67714" ; Times: 1
+	Query: "heteronarce" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "discopyge" ; Times: 1
+	Query: "aetomylaeus milvus" ; Times: 3
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "mola ramsayi" ; Times: 2
+	Query: "minous trachycephalus" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 889 download events in this period)
+Total number of records downloaded: 162
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepomis" ; Times: 1
+	Query: "macropus" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "Cuba" ; Times: 1
+
+
+End of report.
