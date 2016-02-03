@@ -1,0 +1,133 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 199
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 29
+	Country: French Guiana ; Times: 3
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-22 ; Times: 1
+	Date: 2015-09-07 ; Times: 8
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 5
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-02 ; Times: 5
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-26 ; Times: 4
+	Date: 2015-09-15 ; Times: 7
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 21677" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Aulichthys" ; Times: 1
+	Query: "KU 15300" ; Times: 2
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "KU 15248" ; Times: 2
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "KU 30838" ; Times: 2
+	Query: "Spinachia" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "minous trachycephalus" ; Times: 2
+	Query: "KU 6890" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 1
+	Query: "KU 37790" ; Times: 1
+	Query: "syngnathoides biaculeatus red sea" ; Times: 1
+	Query: "Paragobiodon xanthosomus" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "KU 8510" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "KU 35059" ; Times: 1
+	Query: "KU 35058" ; Times: 1
+	Query: "gymnura marmorata" ; Times: 2
+	Query: "KU 25824" ; Times: 1
+	Query: "KU 19397" ; Times: 2
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "Solenostomus" ; Times: 3
+	Query: "KU 12641" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "KU 12642" ; Times: 1
+	Query: "KU 890" ; Times: 2
+	Query: "KU 65375" ; Times: 2
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "KU 67716" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "hexanchus griseus" ; Times: 2
+	Query: "Hypoptychus" ; Times: 1
+	Query: "syngnathoides biaculeatus" ; Times: 1
+	Query: "KU 28003" ; Times: 1
+	Query: "minous monodactylus" ; Times: 1
+	Query: "indica Madagascar" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "baxteri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1045 download events in this period)
+Total number of records downloaded: 5407
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 5
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 3
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-23 ; Times: 6
+	Date: 2015-09-07 ; Times: 3
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:apistogramma" ; Times: 2
+	Query: "Gymnura marmorata" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "genus:aequidens" ; Times: 1
+	Query: "gymnura marmorata" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Bulgaria" ; Times: 1
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
