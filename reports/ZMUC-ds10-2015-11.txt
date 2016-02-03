@@ -1,0 +1,121 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 427
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Brazil ; Times: 2
+	Country: Russia ; Times: 37
+	Country: Switzerland ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-30 ; Times: 4
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-15 ; Times: 4
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 10
+	Date: 2015-11-27 ; Times: 3
+	Date: 2015-11-06 ; Times: 2
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-22 ; Times: 7
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-29 ; Times: 2
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-25 ; Times: 3
+	Date: 2015-11-26 ; Times: 6
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 13
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "corythoichthys amplexus" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "eupleurogrammus glossodon" ; Times: 2
+	Query: "miodon" ; Times: 1
+	Query: "gavialiceps taeniola" ; Times: 2
+	Query: "ku 33585" ; Times: 1
+	Query: "rastrelliger oman" ; Times: 1
+	Query: "umbrina canariensis" ; Times: 2
+	Query: "Zmuc 49161" ; Times: 1
+	Query: "brachypleura gulf" ; Times: 2
+	Query: "Lepidosiren" ; Times: 1
+	Query: "johnius gulf" ; Times: 1
+	Query: "solea elongata" ; Times: 2
+	Query: "lycodes adolfi" ; Times: 8
+	Query: "KU 19169" ; Times: 1
+	Query: "upeneus sundaicus gulf" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "65941" ; Times: 1
+	Query: "KU 11713" ; Times: 2
+	Query: "scomberomorus guttatus" ; Times: 1
+	Query: "Ophichthidae oman" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "ku 35058" ; Times: 1
+	Query: "KU 9939" ; Times: 1
+	Query: "Umbra krameri" ; Times: 1
+	Query: "pseudorhombus triocellatus" ; Times: 2
+	Query: "mystacina" ; Times: 1
+	Query: "chelonodon persian gulf" ; Times: 1
+	Query: "KU 11678" ; Times: 1
+	Query: "eupleurogrammus muticus" ; Times: 1
+	Query: "KU 30742" ; Times: 1
+	Query: "33462" ; Times: 1
+	Query: "abudefduf oman" ; Times: 1
+	Query: "pseudorhombus malayanus" ; Times: 4
+	Query: "rachycentron ku" ; Times: 1
+	Query: "scatophagus gulf" ; Times: 1
+	Query: "Glyptophidium macropus" ; Times: 2
+	Query: "falciformis" ; Times: 1
+	Query: "KU 64227" ; Times: 1
+	Query: "sillago chondropus" ; Times: 1
+	Query: "lagocephalus sceleratus persian gulf" ; Times: 1
+	Query: "KU 9779" ; Times: 1
+	Query: "epinephelus polylepis" ; Times: 2
+	Query: "paramonacanthus gulf" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "ku 35059" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "uranoscopus persian gulf" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "johnius carutta" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 751 download events in this period)
+Total number of records downloaded: 2748
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "madagascar" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "Barbus jae" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
