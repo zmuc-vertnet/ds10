@@ -1,0 +1,94 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 49
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Azerbaijan ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 8
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "synagrops philippinensis" ; Times: 1
+	Query: "ku 6669" ; Times: 1
+	Query: "R.13009 samoa" ; Times: 1
+	Query: "KU 13469" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "ku 9952" ; Times: 1
+	Query: "baku" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "KU 31532" ; Times: 2
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "dendrochirus red sea" ; Times: 2
+	Query: "43288" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "baxteri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 823 download events in this period)
+Total number of records downloaded: 99
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "aeneus" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "Omo" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "paraguay" ; Times: 2
+
+
+End of report.
