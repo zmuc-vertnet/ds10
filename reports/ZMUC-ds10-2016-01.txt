@@ -1,0 +1,79 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-17 ; Times: 4
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 24129" ; Times: 1
+	Query: "minous" ; Times: 1
+	Query: "ku 19761" ; Times: 2
+	Query: "ku 28089" ; Times: 1
+	Query: "ku 1703" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "ku 67738" ; Times: 1
+	Query: "KU 36318" ; Times: 1
+	Query: "ku 28150" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "ku 5279" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "ku 16922" ; Times: 1
+	Query: "ku 5552" ; Times: 1
+	Query: "ku 19868" ; Times: 1
+	Query: "crenidens red sea" ; Times: 1
+	Query: "KU 47023" ; Times: 1
+	Query: "ku 5572" ; Times: 1
+	Query: "velifera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 507 download events in this period)
+Total number of records downloaded: 318
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-03 ; Times: 4
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+
+
+End of report.
