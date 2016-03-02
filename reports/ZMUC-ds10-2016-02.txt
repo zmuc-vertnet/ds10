@@ -1,0 +1,74 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 75
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-05 ; Times: 7
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ku 41047" ; Times: 1
+	Query: "Alloclinus holderi" ; Times: 1
+	Query: "Atractoscion nobilis" ; Times: 1
+	Query: "Phanerodon atripes" ; Times: 1
+	Query: "Jordania zonope" ; Times: 1
+	Query: "Chirolophis nugator" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "cetorhinus maximus" ; Times: 1
+	Query: "47023 (ku)" ; Times: 2
+	Query: "typhlichthys kentucky" ; Times: 2
+	Query: "Sebastes nebulosus" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "Sebastes carnatus" ; Times: 1
+	Query: "Leiocottus hirundo" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 2
+	Query: "Sebastes serriceps" ; Times: 1
+	Query: "polypterus bichir" ; Times: 1
+	Query: "apogon imberbis" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Rhacochilus toxotes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 512 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "amia calva" ; Times: 1
+
+
+End of report.
