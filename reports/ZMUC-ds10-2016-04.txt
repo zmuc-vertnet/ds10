@@ -1,0 +1,290 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 171
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 13
+	Country: United States ; Times: 26
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-22 ; Times: 12
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-24 ; Times: 3
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 12
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-19 ; Times: 9
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "KU 3756" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "dasyatis americana" ; Times: 1
+	Query: "lisboa" ; Times: 1
+	Query: "KU 3298" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "plectorhinchus lineatus" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "abudefduf taurus" ; Times: 1
+	Query: "HETERENCHELYIDAE" ; Times: 1
+	Query: "KU 3562" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "KU 3314" ; Times: 1
+	Query: "ZMUC 55830" ; Times: 2
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "LUVARIDAE" ; Times: 2
+	Query: "ALOPIAS VULPINUS" ; Times: 1
+	Query: "KU 18786" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "Zalieutes" ; Times: 1
+	Query: "echidna delicatula" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "58425" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "CHLAMYDOSELACHIDAE" ; Times: 3
+	Query: "Cheilodactylus variegatus" ; Times: 2
+	Query: "46748" ; Times: 1
+	Query: "arius dussumieri" ; Times: 11
+	Query: "anarhichas minor" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "squalus blainvillei" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 196 (out of 1312 download events in this period)
+Total number of records downloaded: 34774
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Panama ; Times: 191
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 67
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-23 ; Times: 8
+	Date: 2016-04-22 ; Times: 97
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "DRACONETTIDAE" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "LUVARIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "EMMELICHTHYIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "TRIACANTHODIDAE" ; Times: 2
+	Query: "anarhichas minor" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "RHINOPTERIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "APTERONOTIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ANABLEPIDAE" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "DACTYLOSCOPIDAE" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "BREGMACEROTIDAE" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "PINGUIPEDIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "abudefduf taurus" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ZANCLIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "GRAMMICOLEPIDIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "EPIGONIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "MOBULIDAE" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "MOLIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "HETERENCHELYIDAE" ; Times: 1
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "SCHINDLERIIDAE" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "CHLAMYDOSELACHIDAE" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "CAPROIDAE" ; Times: 1
+	Query: "STERNOPYGIDAE" ; Times: 2
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "RHINOCHIMAERIDAE" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "CHLOPSIDAE" ; Times: 1
+	Query: "AULOPIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "OPLEGNATHIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "PERISTEDIIDAE" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "CHAUNACIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "SCOPHTHALMIDAE" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "AUCHENIPTERIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+
+
+End of report.
