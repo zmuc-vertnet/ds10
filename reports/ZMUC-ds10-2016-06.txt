@@ -1,0 +1,178 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 503
+Number of records retrieved in searches: 10033
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Honduras ; Times: 3
+	Country: Mexico ; Times: 29
+	Country: United States ; Times: 466
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 403
+	Date: 2016-06-24 ; Times: 9
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-08 ; Times: 9
+	Date: 2016-06-21 ; Times: 10
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-07 ; Times: 17
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 3
+	Date: 2016-06-13 ; Times: 8
+	Date: 2016-06-03 ; Times: 5
+	Date: 2016-06-02 ; Times: 21
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-09 ; Times: 3
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "57529" ; Times: 1
+	Query: "specificepithet:encrasicolus genus:Engraulis" ; Times: 3
+	Query: "30753" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 6
+	Query: "bison bison   " ; Times: 9
+	Query: "61180" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 2
+	Query: "specificepithet:mysticetus genus:Cetengraulis" ; Times: 3
+	Query: "35018" ; Times: 1
+	Query: "specificepithet:lucida genus:Anchoa" ; Times: 4
+	Query: "specificepithet:xanthopterus genus:Acanthurus" ; Times: 17
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "specificepithet:horrens genus:Prionotus" ; Times: 1
+	Query: "specificepithet:sexfasciatum genus:Haemulon" ; Times: 1
+	Query: "KU 18786" ; Times: 1
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "38682" ; Times: 1
+	Query: "specificepithet:delicatissima genus:Anchoa" ; Times: 2
+	Query: "specificepithet:pollachius genus:Pollachius" ; Times: 7
+	Query: "Falcarius" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 4
+	Query: "specificepithet:taeniatus genus:Anisotremus" ; Times: 2
+	Query: "49990" ; Times: 1
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 27
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 9
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "KU 65373" ; Times: 3
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "specificepithet:cabrilla genus:Serranus" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "genus:Mola" ; Times: 2
+	Query: "46494" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "hippichthys cyanospilus" ; Times: 1
+	Query: "polypterus bichir" ; Times: 14
+	Query: "35723" ; Times: 1
+	Query: "specificepithet:orientalis genus:Thunnus" ; Times: 15
+	Query: "specificepithet:analogus genus:Epinephelus" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Polypterus endlicherii" ; Times: 7
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 84
+	Query: "KU 3804" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "59041" ; Times: 2
+	Query: "paraplagusia bilineata" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 8
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 18
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "specificepithet:lineatus genus:Euthynnus" ; Times: 3
+	Query: "64135" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "specificepithet:macracanthus genus:Pomadasys" ; Times: 1
+	Query: "Isla Coronados Mexico AND 1880" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "neoclinus blanchardi" ; Times: 1
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "leptocharias smithii" ; Times: 3
+	Query: "specificepithet:affinis genus:Euthynnus" ; Times: 2
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 5
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "specificepithet:multiguttatus genus:Alphestes" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 6
+	Query: "50388" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "specificepithet:macrolepidota genus:Anchovia" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "KU 25087" ; Times: 2
+	Query: "45816" ; Times: 1
+	Query: "KU 62102" ; Times: 1
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:belone genus:Belone" ; Times: 51
+	Query: "polystictus KU" ; Times: 1
+	Query: "crenidens pakistan" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "specificepithet:compressa genus:Anchoa" ; Times: 3
+	Query: "specificepithet:auricilla genus:Pristipomoides" ; Times: 1
+	Query: "specificepithet:pacificus genus:Tylosurus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1052 download events in this period)
+Total number of records downloaded: 163
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-07 ; Times: 5
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "leptocharias smithii" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "Polypterus endlicherii" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "polypterus bichir" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
