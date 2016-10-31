@@ -1,0 +1,88 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 294
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: United Kingdom ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-08 ; Times: 8
+	Date: 2016-09-24 ; Times: 8
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 23
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 1
+	Query: "specificepithet:cruentatus genus:Priacanthus" ; Times: 1
+	Query: "specificepithet:declivifrons genus:Abudefduf" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "Mistichthys luzonensis" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:margaritatus genus:Porichthys" ; Times: 1
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:proboscideus genus:Chaenomugil" ; Times: 1
+	Query: "specificepithet:atricauda genus:Symphurus" ; Times: 1
+	Query: "specificepithet:emmelas genus:Cherublemma" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 3
+	Query: "specificepithet:clathratus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "Tilapia zillii" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "specificepithet:lineatus genus:Euthynnus" ; Times: 1
+	Query: "country:&#34;Australia&#34; year &gt;= 1838 year &lt;= 1845" ; Times: 2
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:sanguineus genus:Antennarius" ; Times: 1
+	Query: "specificepithet:orqueta genus:Chloroscombrus" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "specificepithet:elater genus:Zalieutes" ; Times: 1
+	Query: "specificepithet:sini genus:Paraclinus" ; Times: 1
+	Query: "specificepithet:elongatus genus:Symphurus" ; Times: 1
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "specificepithet:remora genus:Remora" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "KU 57163" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:lugubris genus:Caranx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 811 download events in this period)
+Total number of records downloaded: 2610
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "thailand" ; Times: 2
+
+
+End of report.
