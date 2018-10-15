@@ -1,0 +1,144 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 392
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 20
+	Country: United States ; Times: 73
+	Country: Japan ; Times: 10
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-20 ; Times: 10
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-27 ; Times: 4
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-03 ; Times: 5
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-23 ; Times: 6
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 7
+	Date: 2018-02-05 ; Times: 49
+	Date: 2018-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "metynnis maculatus" ; Times: 1
+	Query: "einara" ; Times: 1
+	Query: "Acanthurus tennentii" ; Times: 1
+	Query: "Acanthurus nigros" ; Times: 1
+	Query: "clepsydra" ; Times: 2
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1855 year &lt;= 1866" ; Times: 1
+	Query: "Acanthurus strigosus" ; Times: 1
+	Query: "latimeriidae" ; Times: 1
+	Query: "Acanthurus matoides" ; Times: 3
+	Query: "KU 24629" ; Times: 2
+	Query: "Acanthurus gahhm" ; Times: 2
+	Query: "maulisia mauli" ; Times: 1
+	Query: "Fluviphylax" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "ku 6623" ; Times: 2
+	Query: "huso huso" ; Times: 2
+	Query: "Chaetodon sohal" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 9
+	Query: "Trichomycterus punctulatus" ; Times: 2
+	Query: "Paracanthurus hepatus" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 1
+	Query: "Naso annulatus" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 5
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "Xesurus laticlavius" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "paraholtbyrnia" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "bathylaco macrophthalmus" ; Times: 1
+	Query: "persparsia kopua" ; Times: 1
+	Query: "mirorictus" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "ablabes" ; Times: 1
+	Query: "Acanthurus striatus" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "Acanthurus monroviae" ; Times: 1
+	Query: "KU 24997" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "barbantus aequipinnis" ; Times: 3
+	Query: "Discopyge tschudii" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Naso thynnoides" ; Times: 2
+	Query: "Acanthurus gemmatus" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "Acanthurus guttatus" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "Naso vlamingi" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "Hydrolagus affinis" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "ku 13478" ; Times: 1
+	Query: "64210" ; Times: 1
+	Query: "KU 28789" ; Times: 1
+	Query: "Acanthurus celebicus" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "KU 24796" ; Times: 1
+	Query: "Xesurus scalprum" ; Times: 1
+	Query: "exodon paradoxus" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "Naso unicornis" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "herwigia kreffti" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "Naso tuberosus" ; Times: 3
+	Query: "KU 24643" ; Times: 1
+	Query: "Manta birostris" ; Times: 4
+	Query: "Acanthurus umbra" ; Times: 1
+	Query: "specificepithet:irideus" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1892 download events in this period)
+Total number of records downloaded: 78
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+
+
+End of report.
