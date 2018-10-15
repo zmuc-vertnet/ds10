@@ -1,0 +1,228 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 257
+Number of records retrieved in searches: 1144
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 140
+	Country: Belgium ; Times: 1
+	Country: France ; Times: 95
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-27 ; Times: 4
+	Date: 2017-12-11 ; Times: 175
+	Date: 2017-12-22 ; Times: 3
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 43
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-06 ; Times: 3
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-02 ; Times: 3
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-18 ; Times: 3
+	Date: 2017-12-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudopeneus barberinus" ; Times: 2
+	Query: "KU 22839" ; Times: 1
+	Query: "Rhizoprionodon taylori" ; Times: 1
+	Query: "Urolophus cruciatus" ; Times: 1
+	Query: "Dasyatis marmorata" ; Times: 2
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "Upeneus taeniopterus" ; Times: 1
+	Query: "Rhamdia guatemalensis" ; Times: 1
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "Amblyglyphidodon leucogaster" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Zanobatus schoenleinii" ; Times: 2
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Poecilia velifera" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Conodon nobilis" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "Carcharhinus dussumieri" ; Times: 2
+	Query: "Parupeneus cyclostomus" ; Times: 1
+	Query: "Parupeneus indicus" ; Times: 1
+	Query: "Chromis crusma" ; Times: 1
+	Query: "coregonus oxyrinchus" ; Times: 1
+	Query: "Chromis atrilobata" ; Times: 1
+	Query: "Upeneus tragula" ; Times: 4
+	Query: "Apristurus laurussonii" ; Times: 2
+	Query: "Mullus vittatus" ; Times: 1
+	Query: "Mustelus asterias" ; Times: 2
+	Query: "Myliobatis aquila" ; Times: 2
+	Query: "Upeneus sp." ; Times: 1
+	Query: "Abudefduf septemfasciatus" ; Times: 3
+	Query: "Eusphyra blochii" ; Times: 3
+	Query: "ku 10699" ; Times: 1
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "Narcine tasmaniensis" ; Times: 2
+	Query: "Eugerres plumieri" ; Times: 1
+	Query: "&#34;Umbra krameri&#34;" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "Abudefduf aureus" ; Times: 1
+	Query: "Diplobatis ommata" ; Times: 3
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "KU 26380" ; Times: 1
+	Query: "KU 22543" ; Times: 1
+	Query: "Evorthodus lyricus" ; Times: 1
+	Query: "ku 1551" ; Times: 1
+	Query: "Upeneus guttatus" ; Times: 2
+	Query: "Chromis sp." ; Times: 5
+	Query: "genus:antipodocottus" ; Times: 1
+	Query: "Stegastes imbricatus" ; Times: 1
+	Query: "Abudefduf troschelii" ; Times: 1
+	Query: "Heliases crusma" ; Times: 1
+	Query: "Abudefduf sparoides" ; Times: 1
+	Query: "KU 26318" ; Times: 1
+	Query: "Pseudopeneus prayensis" ; Times: 1
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "Chromis iomelas" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Abudefduf luridus" ; Times: 1
+	Query: "Chaetodon sordidus" ; Times: 1
+	Query: "Abudefduf sp." ; Times: 1
+	Query: "Upeneus sundaicus" ; Times: 1
+	Query: "Oxynotus bruniensis" ; Times: 2
+	Query: "Abudefduf coelestinus" ; Times: 2
+	Query: "KU 26423" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 3
+	Query: "Mustelus punctulatus" ; Times: 2
+	Query: "Mullus barbatus" ; Times: 1
+	Query: "Raja straeleni" ; Times: 2
+	Query: "Dormitator maculatus" ; Times: 1
+	Query: "Gerres cinereus" ; Times: 1
+	Query: "Gallus gallus vntype:specimen year &gt;= 0 year &lt;= 1778" ; Times: 1
+	Query: "Gallus gallus vntype:specimen year &gt;= 0 year &lt;= 1800" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "Mulloides vanicolensis" ; Times: 2
+	Query: "Upeneus bensasi" ; Times: 3
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Pomacentrus nematopterus" ; Times: 1
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "Diapterus auratus" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Urolophus expansus" ; Times: 1
+	Query: "Abudefduf marginatus" ; Times: 1
+	Query: "Dasyatis pastinaca" ; Times: 2
+	Query: "44483" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Atelomycterus marmoratus" ; Times: 3
+	Query: "family:Schindleriidae" ; Times: 2
+	Query: "Chiloscyllium indicum" ; Times: 2
+	Query: "Parupeneus ciliatus" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "Chaenogaleus macrostoma" ; Times: 3
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "Parupeneus sp. 2" ; Times: 1
+	Query: "Leptocharias smithii" ; Times: 3
+	Query: "44494" ; Times: 1
+	Query: "Abudefduf taurus" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "Upeneus martinicus" ; Times: 1
+	Query: "Mullus barbatus ponticus" ; Times: 1
+	Query: "Upeneus vittatus" ; Times: 2
+	Query: "Parupeneus heptacanthus" ; Times: 3
+	Query: "Gobionellus oceanicus" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 7
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Chromis sp. 4" ; Times: 1
+	Query: "Upeneus asymmetricus" ; Times: 2
+	Query: "Chromis sp. 1" ; Times: 1
+	Query: "Chromis sp. 3" ; Times: 1
+	Query: "Elops saurus" ; Times: 1
+	Query: "Abudefduf notatus" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 3
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Upeneus sulphureus" ; Times: 2
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Parupeneus macronema" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "Mullus barbatus barbatus" ; Times: 1
+	Query: "ku 6917" ; Times: 1
+	Query: "ku 19400" ; Times: 1
+	Query: "Torpedo panthera" ; Times: 1
+	Query: "Mullus auriflamma" ; Times: 1
+	Query: "Abudefduf abdominalis" ; Times: 2
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Raja asterias" ; Times: 2
+	Query: "Poecilia sphenops" ; Times: 1
+	Query: "Myliobatis goodei" ; Times: 2
+	Query: "Upeneus subvittatus" ; Times: 2
+	Query: "Nexilarius concolor" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "Amphiprion ephippium" ; Times: 2
+	Query: "Upeneichthys lineatus" ; Times: 2
+	Query: "Somniosus rostratus" ; Times: 1
+	Query: "KU 16139" ; Times: 1
+	Query: "Chuk" ; Times: 1
+	Query: "Pseudopeneus maculatus" ; Times: 1
+	Query: "Mulloidichthys auriflamma" ; Times: 3
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "Abudefduf bengalensis" ; Times: 1
+	Query: "Narke dipterygia" ; Times: 2
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Galeus polli" ; Times: 3
+	Query: "Upeneus luzonius" ; Times: 3
+	Query: "Parupeneus sp. 1" ; Times: 1
+	Query: "Mulloides flavolineatus" ; Times: 2
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "KU 19131" ; Times: 1
+	Query: "Upeneus grandisquamis" ; Times: 1
+	Query: "Raja radula" ; Times: 2
+	Query: "Parupeneus bifasciatus" ; Times: 3
+	Query: "Raja miraletus" ; Times: 2
+	Query: "Pseudopeneus barberinoides" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 1
+	Query: "Abudefduf declivifrons" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 3
+	Query: "Amphiprion sebae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 674 download events in this period)
+Total number of records downloaded: 103
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "family:Schindleriidae" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "&#34;Umbra krameri&#34;" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+
+
+End of report.
