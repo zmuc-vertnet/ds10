@@ -1,0 +1,189 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 610
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 126
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 41
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 24
+	Date: 2018-01-03 ; Times: 82
+	Date: 2018-01-26 ; Times: 5
+	Date: 2018-01-17 ; Times: 40
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 5
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-11 ; Times: 5
+	Date: 2018-01-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomacentrus nigricans" ; Times: 2
+	Query: "Premnas biaculeatus" ; Times: 1
+	Query: "Abudefduf marginatus" ; Times: 1
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "Dascyllus albisella" ; Times: 1
+	Query: "Rhamdia guatemalensis" ; Times: 2
+	Query: "dasyatis americana" ; Times: 1
+	Query: "Amblyglyphidodon leucogaster" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "Pomacentrus littoralis" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 2
+	Query: "Pomacentrus albicaudatus" ; Times: 1
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Neopomacentrus metallicus" ; Times: 1
+	Query: "Conodon nobilis" ; Times: 2
+	Query: "Chromis multilineata" ; Times: 1
+	Query: "Diapterus auratus" ; Times: 2
+	Query: "Abudefduf melas" ; Times: 1
+	Query: "Pomacentrus jenkinsi" ; Times: 1
+	Query: "Chromis crusma" ; Times: 1
+	Query: "poecilia velifera" ; Times: 1
+	Query: "Chromis atrilobata" ; Times: 1
+	Query: "Hypsypops rubicunda" ; Times: 1
+	Query: "Pomacentrus coelestis" ; Times: 1
+	Query: "Chromis caeruleus" ; Times: 1
+	Query: "Daya jerdoni" ; Times: 1
+	Query: "Abudefduf septemfasciatus" ; Times: 3
+	Query: "Dascyllus marginatus" ; Times: 2
+	Query: "Eupomacentrus leucostictus" ; Times: 1
+	Query: "Eugerres plumieri" ; Times: 2
+	Query: "Abudefduf aureus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "Chromis limbatus" ; Times: 1
+	Query: "29233" ; Times: 1
+	Query: "Amphiprion ephippium" ; Times: 2
+	Query: "KU 949" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "Chromis sp." ; Times: 6
+	Query: "Dascyllus aruanus" ; Times: 1
+	Query: "Stegastes imbricatus" ; Times: 2
+	Query: "36607" ; Times: 3
+	Query: "Heliases crusma" ; Times: 1
+	Query: "Abudefduf sparoides" ; Times: 1
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 2
+	Query: "Chromis iomelas" ; Times: 1
+	Query: "Abudefduf luridus" ; Times: 1
+	Query: "Chaetodon sordidus" ; Times: 1
+	Query: "KU 4986" ; Times: 2
+	Query: "KU 30078" ; Times: 2
+	Query: "Abudefduf coelestinus" ; Times: 2
+	Query: "Dascyllus reticulatus" ; Times: 2
+	Query: "Pomacentrus fasciatus" ; Times: 1
+	Query: "Stegastes fasciolatus" ; Times: 1
+	Query: "KU 30079" ; Times: 1
+	Query: "Dormitator maculatus" ; Times: 2
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "Chromis sp. 3" ; Times: 1
+	Query: "Neopomacentrus taeniurus" ; Times: 2
+	Query: "Belonesox belizanus" ; Times: 2
+	Query: "Pomacentrus nematopterus" ; Times: 1
+	Query: "Abudefduf dickii" ; Times: 1
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 2
+	Query: "Dascyllus marginatus marginatus" ; Times: 1
+	Query: "Pomacentrus notophthalmus" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 2
+	Query: "Eupomacentrus fuscus" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "Sillago japonica" ; Times: 1
+	Query: "*" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 2
+	Query: "Abudefduf assimilis" ; Times: 1
+	Query: "Dascyllus trimaculatus" ; Times: 1
+	Query: "Chromis punctipinnis" ; Times: 1
+	Query: "Alepocephalus productus" ; Times: 2
+	Query: "scatophagus tetracanthus" ; Times: 1
+	Query: "51835" ; Times: 1
+	Query: "Chromis notatus notatus" ; Times: 1
+	Query: "Pomacentrus tripunctatus" ; Times: 1
+	Query: "Abudefduf taurus" ; Times: 1
+	Query: "Amphiprion sebae" ; Times: 1
+	Query: "Abudefduf glaucus" ; Times: 1
+	Query: "Poecilia velifera" ; Times: 2
+	Query: "Pomacentrus wardi" ; Times: 1
+	Query: "Eupomacentrus planifrons" ; Times: 1
+	Query: "Gobionellus oceanicus" ; Times: 2
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Chromis sp. 4" ; Times: 1
+	Query: "Chromis sp. 1" ; Times: 1
+	Query: "61419" ; Times: 1
+	Query: "Elops saurus" ; Times: 2
+	Query: "Abudefduf biocellatus" ; Times: 3
+	Query: "Neopomacentrus cyanomos" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Abudefduf abdominalis" ; Times: 1
+	Query: "Neoglyphidodon carlsoni" ; Times: 1
+	Query: "Dascyllus melanurus" ; Times: 1
+	Query: "Pomacentrus lividus" ; Times: 3
+	Query: "Pomacentrus vaiuli" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 2
+	Query: "Plectroglyphidodon lacrymatus" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 3
+	Query: "Nexilarius concolor" ; Times: 1
+	Query: "Chromis notatus" ; Times: 1
+	Query: "Evorthodus lyricus" ; Times: 2
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1700 year &lt;= 1845" ; Times: 1
+	Query: "Abudefduf sp." ; Times: 1
+	Query: "Pomacentrus perspicillatus" ; Times: 1
+	Query: "Pomacentrus chrysurus" ; Times: 1
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "Abudefduf bengalensis" ; Times: 1
+	Query: "Abudefduf troschelii" ; Times: 1
+	Query: "Pomacentrus emarginatus" ; Times: 1
+	Query: "microcephalum" ; Times: 2
+	Query: "Dasyatis say" ; Times: 1
+	Query: "Pomacentrus bankanensis" ; Times: 1
+	Query: "Pomacentrus trimaculatus" ; Times: 2
+	Query: "Agonostomus monticola" ; Times: 2
+	Query: "42679" ; Times: 1
+	Query: "Abudefduf notatus" ; Times: 1
+	Query: "Abudefduf declivifrons" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1398 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnura micrura" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "anchoa mitchilli" ; Times: 1
+
+
+End of report.
