@@ -1,0 +1,144 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 314
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 86
+	Country: Morocco ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 14
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 6
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 11
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 6
+	Date: 2018-05-30 ; Times: 17
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 10979" ; Times: 1
+	Query: "Labeo fimbriatus" ; Times: 1
+	Query: "ku 10036" ; Times: 2
+	Query: "ku 32121" ; Times: 1
+	Query: "KU 28183" ; Times: 1
+	Query: "KU 29128" ; Times: 2
+	Query: "ku 11337" ; Times: 1
+	Query: "*" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "&#34;labeo pangusia&#34;" ; Times: 1
+	Query: "ku 10977" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "ku 17781" ; Times: 2
+	Query: "KU 15346" ; Times: 1
+	Query: "&#34;Labeo calbasu&#34;" ; Times: 1
+	Query: "KU 12359" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "KU 12650" ; Times: 1
+	Query: "KU 17707" ; Times: 1
+	Query: "KU 5932" ; Times: 1
+	Query: "KU 20262" ; Times: 1
+	Query: "Labeo angra" ; Times: 3
+	Query: "62245" ; Times: 1
+	Query: "KU 12808" ; Times: 1
+	Query: "specificepithet:thayeri family:Cichlidae" ; Times: 1
+	Query: "Labeo forskalii" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "ku 8053" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "typhlichthys" ; Times: 1
+	Query: "ku 17734" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "ku 9432" ; Times: 1
+	Query: "Labeo falcipinnis" ; Times: 1
+	Query: "ku 10246" ; Times: 1
+	Query: "ku 17776" ; Times: 1
+	Query: "KU 10417" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "ku 17723" ; Times: 1
+	Query: "(Bahrein )" ; Times: 1
+	Query: "KU 14269" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "ku 25669" ; Times: 1
+	Query: "ku 14146" ; Times: 1
+	Query: "ku 25627" ; Times: 1
+	Query: "rasbora kalochroma" ; Times: 2
+	Query: "ku 31141" ; Times: 1
+	Query: "ku 12341" ; Times: 1
+	Query: "KU 18006" ; Times: 1
+	Query: "labeo niloticus" ; Times: 1
+	Query: "ku 15358" ; Times: 1
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "formosa 1887" ; Times: 1
+	Query: "ku 14164" ; Times: 1
+	Query: "&#34;labeo niloticus&#34;" ; Times: 1
+	Query: "KU 18089" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "ku 12660" ; Times: 1
+	Query: "ku 25423" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "KU 12389" ; Times: 1
+	Query: "ku 15221" ; Times: 1
+	Query: "ku 23169" ; Times: 2
+	Query: "KU 28581" ; Times: 1
+	Query: "KU 5079" ; Times: 2
+	Query: "ku 23121" ; Times: 3
+	Query: "Labeo gonius" ; Times: 3
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ku 10258" ; Times: 1
+	Query: "KU 7250" ; Times: 2
+	Query: "KU 5929" ; Times: 1
+	Query: "KU 17701" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1178 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "xiphias" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "percina" ; Times: 1
+
+
+End of report.
