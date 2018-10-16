@@ -1,0 +1,188 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 10
+	Country: Denmark ; Times: 33
+	Country: United States ; Times: 56
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 37
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 32
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-02 ; Times: 29
+	Date: 2018-04-05 ; Times: 8
+	Date: 2018-04-17 ; Times: 6
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 10
+	Date: 2018-04-29 ; Times: 5
+	Date: 2018-04-11 ; Times: 32
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "26781" ; Times: 1
+	Query: "KU 15637" ; Times: 2
+	Query: "KU 30349" ; Times: 2
+	Query: "KU 30342" ; Times: 2
+	Query: "KU 15245" ; Times: 1
+	Query: "KU 15246" ; Times: 1
+	Query: "KU 23404" ; Times: 2
+	Query: "Labeo nandina" ; Times: 1
+	Query: "KU 21747" ; Times: 1
+	Query: "KU 20912" ; Times: 1
+	Query: "ku 12327" ; Times: 1
+	Query: "KU 19095" ; Times: 1
+	Query: "KU 15721" ; Times: 1
+	Query: "KU 15720" ; Times: 2
+	Query: "KU 15727" ; Times: 2
+	Query: "KU 18020" ; Times: 1
+	Query: "KU 19395" ; Times: 1
+	Query: "Labeo lukulae" ; Times: 1
+	Query: "adenomus" ; Times: 1
+	Query: "KU 10136" ; Times: 1
+	Query: "KU 10133" ; Times: 2
+	Query: "KU 10132" ; Times: 1
+	Query: "clepsydra" ; Times: 1
+	Query: "disaster" ; Times: 2
+	Query: "chromogobius" ; Times: 1
+	Query: "rastrelliger faughni" ; Times: 1
+	Query: "KU 18016" ; Times: 1
+	Query: "KU 19700" ; Times: 2
+	Query: "ku 15240" ; Times: 1
+	Query: "KU 19385" ; Times: 1
+	Query: "KU 19142" ; Times: 1
+	Query: "KU 15719" ; Times: 2
+	Query: "KU 23392" ; Times: 1
+	Query: "KU 23390" ; Times: 1
+	Query: "KU 20289" ; Times: 1
+	Query: "Pterygoplichthys gibbiceps" ; Times: 1
+	Query: "KU 15570" ; Times: 2
+	Query: "KU 15574" ; Times: 2
+	Query: "KU 19823" ; Times: 2
+	Query: "KU 18006" ; Times: 1
+	Query: "labeo horie" ; Times: 1
+	Query: "KU 15784" ; Times: 2
+	Query: "KU 18081" ; Times: 1
+	Query: "KU 19171" ; Times: 1
+	Query: "KU 20292" ; Times: 1
+	Query: "zebrus" ; Times: 1
+	Query: "KU 8564" ; Times: 2
+	Query: "KU 15770" ; Times: 1
+	Query: "KU 25634" ; Times: 1
+	Query: "KU 16012" ; Times: 1
+	Query: "KU 23441" ; Times: 1
+	Query: "ku 15774" ; Times: 1
+	Query: "Hyphessobrycon heterorhabdus" ; Times: 1
+	Query: "35872" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "ku 15570" ; Times: 1
+	Query: "KU 25627" ; Times: 1
+	Query: "KU 31141" ; Times: 1
+	Query: "KU 15358" ; Times: 1
+	Query: "KU 27180" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "KU 33637" ; Times: 1
+	Query: "KU 15751" ; Times: 2
+	Query: "KU 15587" ; Times: 3
+	Query: "58831" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "ku 15770" ; Times: 1
+	Query: "KU 10977" ; Times: 2
+	Query: "KU 27191" ; Times: 2
+	Query: "crystallogobius" ; Times: 1
+	Query: "Lagocephalus sceleratus " ; Times: 4
+	Query: "Epinephelus chlorostigma" ; Times: 27
+	Query: "KU 19104" ; Times: 1
+	Query: "KU 23421" ; Times: 1
+	Query: "KU 23420" ; Times: 1
+	Query: "thorogobius" ; Times: 1
+	Query: "KU 15293" ; Times: 1
+	Query: "KU 30339" ; Times: 2
+	Query: "KU 30338" ; Times: 2
+	Query: "KU 12325" ; Times: 1
+	Query: "68904" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "KU 20316" ; Times: 1
+	Query: "ku 15574" ; Times: 1
+	Query: "rastrelliger brachysoma" ; Times: 1
+	Query: "KU 10985" ; Times: 3
+	Query: "KU 23418" ; Times: 1
+	Query: "KU 15826" ; Times: 1
+	Query: "KU 4813" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1359 download events in this period)
+Total number of records downloaded: 759
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 6
+	Country: Brazil ; Times: 22
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-24 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Heptapteridae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Pterygoplichthys gibbiceps" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "Pterygoplichthys multiradiatus" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+
+
+End of report.
