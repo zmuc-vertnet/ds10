@@ -1,0 +1,111 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 305
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Iran ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-10 ; Times: 6
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-23 ; Times: 7
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-01 ; Times: 7
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-30 ; Times: 7
+	Date: 2018-07-03 ; Times: 3
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "53355" ; Times: 1
+	Query: "genus:Chelidoperca" ; Times: 1
+	Query: "locality:flour lake" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "genus:myliobatis institutioncode:ZMUC" ; Times: 2
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 3
+	Query: "Gadus morhua" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "Hyphessobrycon rosaceus" ; Times: 1
+	Query: "56062" ; Times: 1
+	Query: "ku 5862" ; Times: 1
+	Query: "Lycodes institutioncode:ZMUC" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "labeo senegalensis" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "4744 KU" ; Times: 1
+	Query: "A Amboiensis" ; Times: 1
+	Query: "clupeonella" ; Times: 1
+	Query: "ku 23444" ; Times: 2
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "6070 KU" ; Times: 1
+	Query: "ku 2796" ; Times: 1
+	Query: "1456 KU" ; Times: 2
+	Query: "39041" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "serrasalmus brandtii" ; Times: 1
+	Query: "1476 KU" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "paucidens" ; Times: 1
+	Query: "17109 KU" ; Times: 1
+	Query: "3631 ku" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "49649-1" ; Times: 1
+	Query: "Hyphessobrycon scholzei" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "labeo stolizkae" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "6505 KU" ; Times: 1
+	Query: "genus:aetobatis" ; Times: 2
+	Query: "68499" ; Times: 1
+	Query: "KU 8563" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 977 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 6
+	Date: 2018-07-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+
+
+End of report.
