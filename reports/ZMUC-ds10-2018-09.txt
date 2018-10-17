@@ -1,0 +1,132 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 1026
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Romania ; Times: 1
+	Country: Portugal ; Times: 22
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 57
+	Country: Germany ; Times: 5
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 15
+	Date: 2018-09-20 ; Times: 25
+	Date: 2018-09-21 ; Times: 11
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 6
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-28 ; Times: 13
+	Date: 2018-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Melanostomias paucilaternatus" ; Times: 1
+	Query: "Leptostomias longibarba" ; Times: 1
+	Query: "Conocara murrayi" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "ku 11337" ; Times: 3
+	Query: "lamna nasus" ; Times: 6
+	Query: "leprus" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "ku 15221" ; Times: 1
+	Query: "Melanostomias macrophotus" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "saccopharynx" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "KU 5212" ; Times: 1
+	Query: "KU 19608" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "Astronesthes neopogon" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "Diaphus adenomus" ; Times: 1
+	Query: "gbifdatasetid:84dbaec2-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "ku 23463" ; Times: 1
+	Query: "reinhardti zmuc" ; Times: 3
+	Query: "43401" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "ku 12806" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "Constanta" ; Times: 1
+	Query: "Melanostomias globulifer" ; Times: 1
+	Query: "hippocampus abdominalis" ; Times: 1
+	Query: "Grammatostomias flagellibarba" ; Times: 1
+	Query: "Astronesthes leucopogon" ; Times: 1
+	Query: "Macrourus berglax" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "43935" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "Bathophilus longipes" ; Times: 2
+	Query: "Herwigia kreffti" ; Times: 1
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 1
+	Query: "KU 17765" ; Times: 1
+	Query: "Alepocephalus productus" ; Times: 2
+	Query: "Bathophilus novicki" ; Times: 2
+	Query: "Stomias longibarbatus" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "Photonectes achirus" ; Times: 1
+	Query: "Astronesthes lamellosus" ; Times: 1
+	Query: "Chauliodus schmidti" ; Times: 1
+	Query: "Astronesthes caulophorus" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "ku 25669" ; Times: 1
+	Query: "Astronesthes chrysophekadion" ; Times: 1
+	Query: "KU 16456" ; Times: 1
+	Query: "Danaphryne nigrifilis" ; Times: 10
+	Query: "KU 14164" ; Times: 2
+	Query: "Salmo sp" ; Times: 1
+	Query: "Photonectes phyllopogon" ; Times: 1
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "Photonectes dinema" ; Times: 1
+	Query: "Melanostomias pollicifer" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "Photonectes caerulescens" ; Times: 1
+	Query: "ku 23241" ; Times: 1
+	Query: "Grammatostomias dentatus" ; Times: 1
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "Microlophichthys andracanthus" ; Times: 1
+	Query: "Astronesthes atlanticus" ; Times: 1
+	Query: "Photonectes mirabilis" ; Times: 1
+	Query: "ku 17707" ; Times: 1
+	Query: "ku 17765" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 846 download events in this period)
+Total number of records downloaded: 250
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-20 ; Times: 4
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bathophilus novicki" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "Grammatostomias dentatus" ; Times: 1
+	Query: "Astronesthes neopogon" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+
+
+End of report.
