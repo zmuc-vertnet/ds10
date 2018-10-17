@@ -1,0 +1,177 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 1613
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 117
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 3
+	Date: 2018-08-06 ; Times: 7
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-08 ; Times: 7
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-27 ; Times: 37
+	Date: 2018-08-31 ; Times: 5
+	Date: 2018-08-03 ; Times: 5
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-22 ; Times: 25
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 11
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-07 ; Times: 3
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 20
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "18364 KU" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "1435 KU" ; Times: 1
+	Query: "49831" ; Times: 1
+	Query: "60257" ; Times: 2
+	Query: "zmuc bolivia" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "Balistes rectangulus" ; Times: 1
+	Query: "14868 KU" ; Times: 1
+	Query: "ku 17732" ; Times: 1
+	Query: "Balistes flavimarginatus" ; Times: 1
+	Query: "14872 KU" ; Times: 1
+	Query: "Balistes conspicillum" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "KU 17777" ; Times: 2
+	Query: "34645" ; Times: 1
+	Query: "KU 6517" ; Times: 3
+	Query: "41411" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Balistes forcipatus" ; Times: 2
+	Query: "KU 25211" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 3
+	Query: "vimba vimba" ; Times: 1
+	Query: "61905" ; Times: 2
+	Query: "19663 KU" ; Times: 1
+	Query: "KU 35711" ; Times: 1
+	Query: "KU 7066" ; Times: 3
+	Query: "Balistes bursa" ; Times: 1
+	Query: "KU-41059" ; Times: 1
+	Query: "KU 9612" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "perca schrenkii" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "66407 o" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "KU 62466" ; Times: 1
+	Query: "country:&#34;Brazil&#34; institutioncode:ZMUC" ; Times: 7
+	Query: "60030" ; Times: 1
+	Query: "KU 62465" ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "zmuc indonesia" ; Times: 1
+	Query: "Canthidermis rotundatus" ; Times: 1
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "zmuc peru" ; Times: 1
+	Query: "69162" ; Times: 1
+	Query: "16139 KU" ; Times: 1
+	Query: "argyrogaster" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Abalistes stellaris" ; Times: 2
+	Query: "21408 KU" ; Times: 1
+	Query: "9832 KU" ; Times: 1
+	Query: "Balistes cinereus" ; Times: 1
+	Query: "KU 21905" ; Times: 3
+	Query: "KU 68175" ; Times: 1
+	Query: "Melichthys radula" ; Times: 1
+	Query: "Balistes viridescens" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 4
+	Query: "Balistes capistratus" ; Times: 1
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 3
+	Query: "16123 KU" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "Balistes stellatus" ; Times: 2
+	Query: "Balistes assasi" ; Times: 1
+	Query: "14615 KU" ; Times: 1
+	Query: "Balistes buniva" ; Times: 2
+	Query: "14651 KU" ; Times: 1
+	Query: "59754" ; Times: 1
+	Query: "Normanichthys" ; Times: 3
+	Query: "57648" ; Times: 1
+	Query: "zmuc ecuador" ; Times: 2
+	Query: "KU 17707" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "48541" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "KU 8132" ; Times: 2
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "specificepithet:japonicus genus:Stephanolepis" ; Times: 1
+	Query: "Balistoides conspicillium" ; Times: 1
+	Query: "7066 KU" ; Times: 2
+	Query: "Balistes niger" ; Times: 1
+	Query: "specificepithet:bensasi genus:Upeneus" ; Times: 2
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Melanotaenia maccullochi" ; Times: 1
+	Query: "Balistes erythrodon" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "Sufflamen capistratus" ; Times: 1
+	Query: "Agassiz 1872" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 3
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "Balistes vidua" ; Times: 1
+	Query: "Balistes verrucosus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1416 download events in this period)
+Total number of records downloaded: 133
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 2
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Chaetobranchus flavescens" ; Times: 1
+	Query: "eugerres plumieri" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "Anisotremus virginicus" ; Times: 1
+
+
+End of report.
