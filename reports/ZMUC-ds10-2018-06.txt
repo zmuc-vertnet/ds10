@@ -1,0 +1,171 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 856
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 3
+	Country: United States ; Times: 166
+	Country: Kuwait ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-15 ; Times: 14
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-13 ; Times: 24
+	Date: 2018-06-29 ; Times: 11
+	Date: 2018-06-28 ; Times: 7
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-19 ; Times: 13
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-14 ; Times: 15
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-21 ; Times: 53
+	Date: 2018-06-20 ; Times: 16
+	Date: 2018-06-25 ; Times: 4
+	Date: 2018-06-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "KU 41633" ; Times: 1
+	Query: "Acanthurus matoides" ; Times: 4
+	Query: "Naso thynnoides" ; Times: 3
+	Query: "ku 10976" ; Times: 2
+	Query: "ku 34721" ; Times: 1
+	Query: "Chaetodon sohal" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "Naso annulatus" ; Times: 2
+	Query: "ku 14038" ; Times: 2
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Xesurus laticlavius" ; Times: 1
+	Query: "specificepithet:barbus genus:Barbus" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "65362" ; Times: 1
+	Query: "KU 10842" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "52549" ; Times: 1
+	Query: "KU 11527" ; Times: 2
+	Query: "specificepithet:microlepis family:Cichlidae" ; Times: 1
+	Query: "zmuc year &gt; 2010" ; Times: 1
+	Query: "KU 5929" ; Times: 3
+	Query: "ku 23169" ; Times: 1
+	Query: "ku 23363" ; Times: 2
+	Query: "Acanthurus tennentii" ; Times: 2
+	Query: "country:&#34;Brazil&#34; institutioncode:ZMUC" ; Times: 5
+	Query: "KU 69946" ; Times: 1
+	Query: "KU 69947" ; Times: 1
+	Query: "KU 69949" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "KU 5932" ; Times: 2
+	Query: "Periophthalmus waltoni" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "philippines ku 20921" ; Times: 1
+	Query: "ku 17777" ; Times: 3
+	Query: "70092" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "KU 69952" ; Times: 1
+	Query: "KU 69951" ; Times: 2
+	Query: "36384`1" ; Times: 1
+	Query: "Xesurus scalprum" ; Times: 1
+	Query: "Naso unicornis" ; Times: 2
+	Query: "KU 34676" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "KU 36740" ; Times: 1
+	Query: "Acanthurus umbra" ; Times: 1
+	Query: "ku 10936" ; Times: 2
+	Query: "KU 21658" ; Times: 2
+	Query: "19696" ; Times: 1
+	Query: "ku 18940" ; Times: 3
+	Query: "Acanthurus celebicus" ; Times: 1
+	Query: "thermophilus" ; Times: 1
+	Query: "specificepithet:guttulatus family:Cichlidae" ; Times: 1
+	Query: "plataplochilus" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "fluviphylax" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "Acanthurus gemmatus" ; Times: 1
+	Query: "Acipenser gueldenstaedtii" ; Times: 1
+	Query: "KU 56174" ; Times: 1
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "ku 12440" ; Times: 2
+	Query: "ku 19177" ; Times: 2
+	Query: "Acanthurus monroviae" ; Times: 2
+	Query: "59215" ; Times: 1
+	Query: "KU 40638" ; Times: 1
+	Query: "KU-32808" ; Times: 1
+	Query: "KU 44885" ; Times: 1
+	Query: "Acanthurus nigros" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "Acanthurus strigosus" ; Times: 1
+	Query: "KU 56175" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "KU 56171" ; Times: 2
+	Query: "Naso tuberosus" ; Times: 4
+	Query: "specificepithet:vittatus family:Cichlidae" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "locality:Mariana institutioncode:ZMUC" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Acanthurus striatus" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "50623" ; Times: 4
+	Query: "Naso vlamingi" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "KU 33551" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "KU 30437" ; Times: 2
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "KU 18447" ; Times: 3
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "KU 45784" ; Times: 2
+	Query: "ku 19214" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1169 download events in this period)
+Total number of records downloaded: 28
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pterois volitans" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "Labeo rohita" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "elephant" ; Times: 1
+
+
+End of report.
