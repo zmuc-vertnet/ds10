@@ -1,0 +1,310 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 349
+Number of records retrieved in searches: 1923
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 57
+	Country: Mexico ; Times: 7
+	Country: France ; Times: 2
+	Country: United States ; Times: 265
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Venezuela ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 7
+	Date: 2018-10-05 ; Times: 18
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 4
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-23 ; Times: 35
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-08 ; Times: 4
+	Date: 2018-10-09 ; Times: 6
+	Date: 2018-10-16 ; Times: 10
+	Date: 2018-10-10 ; Times: 6
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-29 ; Times: 7
+	Date: 2018-10-30 ; Times: 44
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-11 ; Times: 10
+	Date: 2018-10-15 ; Times: 189
+
+List of queries that retrieved data from the resource: 
+	Query: "Syngnathus blainvilleanus" ; Times: 1
+	Query: "Bulbonaricus davaoensis" ; Times: 1
+	Query: "Festucalex gibbsi" ; Times: 2
+	Query: "53793" ; Times: 1
+	Query: "Hippocampus hippocampus microcoronatus" ; Times: 1
+	Query: "melanocetus polyactis" ; Times: 2
+	Query: "Ostracion cornutus" ; Times: 1
+	Query: "Bulbonaricus brauni" ; Times: 1
+	Query: "sphyrna tudes" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "Callionymus hainanensis" ; Times: 1
+	Query: "Monognathus bruuni" ; Times: 4
+	Query: "Syngnathus phlegon" ; Times: 1
+	Query: "Balistes niger" ; Times: 1
+	Query: "Callionymus octostigmatus" ; Times: 1
+	Query: "Syngnathus conspicillatus" ; Times: 2
+	Query: "Dasyatis violacea" ; Times: 2
+	Query: "Ostracion gibbosus" ; Times: 1
+	Query: "Balistes rectangulus" ; Times: 1
+	Query: "Hippocampus ramulosus" ; Times: 2
+	Query: "Doryichthys cuncalus" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "Callionymus fasciatus" ; Times: 1
+	Query: "Monognathus rosenblatti" ; Times: 3
+	Query: "Halicampus brocki" ; Times: 1
+	Query: "Hippocampus punctulatus" ; Times: 3
+	Query: "Micrognathus brevirostris brevirostris" ; Times: 1
+	Query: "Cosmocampus maxweberi" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "Balistes conspicillum" ; Times: 1
+	Query: "Corythoichthys schultzi" ; Times: 1
+	Query: "Paracallionymus costatus" ; Times: 1
+	Query: "Syngnathus acicularis" ; Times: 1
+	Query: "Entelurus aequoraeus" ; Times: 1
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "Callionymus festivus" ; Times: 2
+	Query: "Aulostomus valentini" ; Times: 2
+	Query: "Hippichthys cyanospilus" ; Times: 1
+	Query: "Corythoichthys intestinalis" ; Times: 2
+	Query: "Callionymus rissoi" ; Times: 1
+	Query: "Festucalex erythraeus" ; Times: 2
+	Query: "Ostracion diaphanus" ; Times: 1
+	Query: "Trachyrhamphus longirostris" ; Times: 1
+	Query: "Microphis torrentius" ; Times: 1
+	Query: "Saccopharynx schmidti" ; Times: 4
+	Query: "Callionymus superbus" ; Times: 1
+	Query: "Ichthyocampus filum" ; Times: 1
+	Query: "Callionymus curvicornis" ; Times: 2
+	Query: "Corythoichthys amplexus" ; Times: 1
+	Query: "Syngnathus serratus" ; Times: 1
+	Query: "Hippichthys spicifer" ; Times: 1
+	Query: "Balistes bursa" ; Times: 1
+	Query: "Micrognathus natans" ; Times: 1
+	Query: "Coelonotus platyrhynchus" ; Times: 1
+	Query: "Syngnathus agassiz" ; Times: 1
+	Query: "Eusphyra blochii" ; Times: 1
+	Query: "Monognathus ozawai" ; Times: 2
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "22061" ; Times: 1
+	Query: "Doryrhamphus melanopleura" ; Times: 1
+	Query: "Ostracion bicaudalis" ; Times: 1
+	Query: "Ostracion concatenatus" ; Times: 1
+	Query: "Halicampus boothae" ; Times: 1
+	Query: "Rhinesomus triqueter" ; Times: 1
+	Query: "Callionymus lunatus" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "Barathronus multidens" ; Times: 2
+	Query: "Hippocampus abdominalis" ; Times: 1
+	Query: "Ostracion immaculatus" ; Times: 1
+	Query: "Syngnathus djarong" ; Times: 1
+	Query: "Callionymus hindsii" ; Times: 1
+	Query: "Callionymus schaapii" ; Times: 1
+	Query: "Syngnathus spicifer" ; Times: 2
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 3
+	Query: "Lactophrys trigonus" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "Callionymus risso" ; Times: 1
+	Query: "Balistes carolinensis" ; Times: 2
+	Query: "Ichthyocampus belcheri" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Callionymus persicus" ; Times: 2
+	Query: "Halicampus dunckeri" ; Times: 1
+	Query: "Syngnathus nigrolineatus" ; Times: 1
+	Query: "Hippichthys heptagonus" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "Hippocampus sp. 2" ; Times: 1
+	Query: "Hippocampus sp. 1" ; Times: 1
+	Query: "Eleutherochir opercularis" ; Times: 1
+	Query: "Coelonotus leiaspis" ; Times: 1
+	Query: "Haplophryne mollis" ; Times: 2
+	Query: "Hippocampus novaehollandiae" ; Times: 1
+	Query: "Ostracion meleagris meleagris" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Abalistes stellaris" ; Times: 2
+	Query: "KU 27326" ; Times: 1
+	Query: "Hippocampus hystrix" ; Times: 2
+	Query: "Hippocampus trimaculatus" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 3
+	Query: "Oneirodes melanocauda" ; Times: 2
+	Query: "Ostracion cubicus" ; Times: 1
+	Query: "Syngnathus dunckeri" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "Doryrhamphus melanopleura melanopleura" ; Times: 1
+	Query: "Callionymus variegatus" ; Times: 1
+	Query: "lates niloticus" ; Times: 1
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "Canthidermis rotundatus" ; Times: 1
+	Query: "Dasyatis guttata" ; Times: 1
+	Query: "Ostracion meleagris" ; Times: 1
+	Query: "Oostethus brachyurus brachyurus" ; Times: 1
+	Query: "Callionymus maculatus" ; Times: 2
+	Query: "Corythoichthys fasciatus" ; Times: 2
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "Oneirodes macronema" ; Times: 2
+	Query: "Syngnathus griseolineatus" ; Times: 1
+	Query: "Melichthys radula" ; Times: 1
+	Query: "Monognathus smithi" ; Times: 7
+	Query: "Choeroichthys brachysoma" ; Times: 1
+	Query: "ku 48780" ; Times: 1
+	Query: "Choeroichthys sculptus" ; Times: 1
+	Query: "Callionymus hildae" ; Times: 1
+	Query: "Syngnathus pulchellus" ; Times: 2
+	Query: "Penetopteryx taeniocephalus" ; Times: 1
+	Query: "Bhanotia fasciolata" ; Times: 1
+	Query: "Callionymus japonicus japonicus" ; Times: 1
+	Query: "Acentronura gracilissima" ; Times: 1
+	Query: "Callionymus schaapi" ; Times: 1
+	Query: "Phyllorhinichthys" ; Times: 2
+	Query: "Callionymus belcheri" ; Times: 2
+	Query: "Minyichthys brachyrhinus" ; Times: 1
+	Query: "Balistes viridescens" ; Times: 1
+	Query: "Callionymus sagitta" ; Times: 2
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Solenognathus fasciatus" ; Times: 1
+	Query: "Balistes flavimarginatus" ; Times: 1
+	Query: "Corythoichthys corrugatus" ; Times: 1
+	Query: "Callionymus persicus persicus" ; Times: 1
+	Query: "Callionymus enneactis" ; Times: 1
+	Query: "Halicampus grayi" ; Times: 2
+	Query: "Corythoichthys intestinalis intestinalis" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "Siphonostoma typhle" ; Times: 1
+	Query: "Syngnathus cyanospilus" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Cosmocampus retropinnis" ; Times: 1
+	Query: "Syngnathoides biaculeatus" ; Times: 1
+	Query: "Halicampus koilomatodon" ; Times: 1
+	Query: "rennell ku" ; Times: 1
+	Query: "Callionymus virgis" ; Times: 1
+	Query: "Stigmatophora nigra" ; Times: 1
+	Query: "Callionymus keeleyi" ; Times: 1
+	Query: "Balistes stellatus" ; Times: 2
+	Query: "Balistes assasi" ; Times: 1
+	Query: "Hippocampus kuda" ; Times: 8
+	Query: "Synchiropus atrilabiatus" ; Times: 1
+	Query: "Balistes buniva" ; Times: 1
+	Query: "Corythoichthys flavofasciatus" ; Times: 2
+	Query: "Hippocampus hudsonius" ; Times: 1
+	Query: "Ostracion nasus" ; Times: 1
+	Query: "Dasyatis centroura" ; Times: 1
+	Query: "Syngnathus curtirostris" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "Solegnathus spinosissimus" ; Times: 1
+	Query: "Siokunichthys breviceps" ; Times: 1
+	Query: "Callionymus olidus" ; Times: 1
+	Query: "Balistes capistratus" ; Times: 1
+	Query: "altavela" ; Times: 2
+	Query: "Nerophis ophidion" ; Times: 1
+	Query: "Ostracion fornasini" ; Times: 1
+	Query: "Callionymus meridionalis" ; Times: 1
+	Query: "Entelurus aequoreus" ; Times: 1
+	Query: "Synchiropus phaeton" ; Times: 1
+	Query: "Monognathus" ; Times: 1
+	Query: "Belonichthys fluviatilis" ; Times: 2
+	Query: "18237" ; Times: 1
+	Query: "Eustomias braueri" ; Times: 1
+	Query: "Corythoichthys haematopterus" ; Times: 1
+	Query: "Festucalex wassi" ; Times: 1
+	Query: "Callionymus amboina" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "Callionymus marleyi" ; Times: 2
+	Query: "Syngnathus californiensis californiensis" ; Times: 1
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "Torpedo nobiliana" ; Times: 2
+	Query: "Hippocampus mohnikei" ; Times: 3
+	Query: "Balistoides conspicillium" ; Times: 1
+	Query: "Callionymus sanctaehelenae" ; Times: 2
+	Query: "Hippocampus japonicus" ; Times: 1
+	Query: "Minyichthys sentus" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "Plecoglossus altivelis" ; Times: 1
+	Query: "Callionymus kaianus" ; Times: 1
+	Query: "Callionymus doryssus" ; Times: 1
+	Query: "Callionymus bali" ; Times: 1
+	Query: "ku 1361" ; Times: 1
+	Query: "Siokunichthys herrei" ; Times: 1
+	Query: "Callionymus belenus" ; Times: 1
+	Query: "Choeroichthys cinctus" ; Times: 1
+	Query: "Ichthyocampus scalaris" ; Times: 1
+	Query: "Callionymus opercularis" ; Times: 1
+	Query: "Saccopharynx lavenbergi" ; Times: 29
+	Query: "Oostethus brachyurus" ; Times: 3
+	Query: "Dactylopus dactylopus" ; Times: 1
+	Query: "Microphis boaja" ; Times: 1
+	Query: "Hippocampus ingens" ; Times: 1
+	Query: "Balistes erythrodon" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "Callionymus belcheri belcheri" ; Times: 2
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Hippocampus coronatus" ; Times: 2
+	Query: "Acanthostracion notacanthus" ; Times: 1
+	Query: "Balistes forcipatus" ; Times: 2
+	Query: "Sufflamen capistratus" ; Times: 1
+	Query: "Doryichthys brachyurus" ; Times: 1
+	Query: "Callionymus japonicus" ; Times: 2
+	Query: "Syngnathus californiensis" ; Times: 1
+	Query: "Micrognathus brevirostris" ; Times: 3
+	Query: "Syngnathus typhle typhle" ; Times: 1
+	Query: "Syngnathus bucculentus" ; Times: 1
+	Query: "Brachydeuterus auritus" ; Times: 1
+	Query: "Callionymus bairdi" ; Times: 2
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Phyllopteryx foliatus" ; Times: 1
+	Query: "Balistes cinereus" ; Times: 1
+	Query: "characodon" ; Times: 1
+	Query: "Doryichthys retzii" ; Times: 1
+	Query: "Hippocampus horai" ; Times: 1
+	Query: "Lactoria galeodon" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "Lactoria diaphana" ; Times: 1
+	Query: "Ichthyocampus carce" ; Times: 1
+	Query: "Synchiropus altivelis" ; Times: 3
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "scleropages" ; Times: 1
+	Query: "Festucalex sp. 1" ; Times: 1
+	Query: "Meteoria erythrops" ; Times: 1
+	Query: "Balistes vidua" ; Times: 1
+	Query: "Balistes verrucosus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1300 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "specificepithet:onitis genus:Tautoga" ; Times: 1
+	Query: "Acanthogobius flavimanus" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.
