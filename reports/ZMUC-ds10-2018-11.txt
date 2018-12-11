@@ -1,0 +1,138 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 1039
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 19
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 61
+	Country: Ireland ; Times: 1
+	Country: Belgium ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-06 ; Times: 11
+	Date: 2018-11-05 ; Times: 9
+	Date: 2018-11-04 ; Times: 6
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 1
+	Date: 2018-11-21 ; Times: 3
+	Date: 2018-11-20 ; Times: 5
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 5
+	Date: 2018-11-18 ; Times: 5
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-13 ; Times: 10
+	Date: 2018-11-14 ; Times: 7
+	Date: 2018-11-15 ; Times: 13
+	Date: 2018-11-16 ; Times: 4
+	Date: 2018-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 10036" ; Times: 3
+	Query: "catalognumber:40365" ; Times: 1
+	Query: "KU-19351" ; Times: 1
+	Query: "KU-39806" ; Times: 1
+	Query: "KU 10111" ; Times: 1
+	Query: "KU 11337" ; Times: 2
+	Query: "KU-51998" ; Times: 1
+	Query: "Parataeniophorus brevis" ; Times: 11
+	Query: "62637" ; Times: 1
+	Query: "27647" ; Times: 1
+	Query: "Cynoglossus melanopterus" ; Times: 4
+	Query: "KU 15320" ; Times: 2
+	Query: "45657" ; Times: 1
+	Query: "catalognumber:23628" ; Times: 1
+	Query: "catalognumber:59266" ; Times: 1
+	Query: "23341" ; Times: 1
+	Query: "&#34;Epalzeorhynchos bicolor&#34; OR &#34;Labeo bicolor&#34;" ; Times: 1
+	Query: "KU-19338" ; Times: 1
+	Query: "cynoglossus quadrilineatus" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 4
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "KU 17732" ; Times: 1
+	Query: "KU-10083" ; Times: 1
+	Query: "genidens" ; Times: 2
+	Query: "KU-60663" ; Times: 2
+	Query: "nicobariensis" ; Times: 1
+	Query: "hippocampus mohnikei" ; Times: 1
+	Query: "catalognumber:33519" ; Times: 2
+	Query: "KU 12368" ; Times: 1
+	Query: "KU 17777" ; Times: 2
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 4
+	Query: "35923" ; Times: 1
+	Query: "KU-62523" ; Times: 1
+	Query: "specificepithet:chromis genus:chromis" ; Times: 1
+	Query: "KU-39819" ; Times: 3
+	Query: "Cheilodactylus fasciatus" ; Times: 1
+	Query: "KU 25669" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "&#34;Trichopodus trichopterus&#34; OR &#34;Trichogaster trichopterus&#34;" ; Times: 1
+	Query: "45122" ; Times: 2
+	Query: "Hypsopanchax" ; Times: 1
+	Query: "catalognumber:23638" ; Times: 2
+	Query: "KU-19327" ; Times: 1
+	Query: "sereti" ; Times: 1
+	Query: "KU 14164" ; Times: 2
+	Query: "KU 12369" ; Times: 1
+	Query: "KU 19110" ; Times: 3
+	Query: "catalognumber:40082" ; Times: 1
+	Query: "Ataxolepis henactis" ; Times: 2
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 4
+	Query: "catalognumber:51156 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "KU 20897" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "KU 10293" ; Times: 1
+	Query: "&#34;Pseudorasbora parva&#34;" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "scleropages" ; Times: 1
+	Query: "KU 15708" ; Times: 1
+	Query: "KU 15711" ; Times: 1
+	Query: "Entelurus aequoreus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1719 download events in this period)
+Total number of records downloaded: 43
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-12 ; Times: 1
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Batis" ; Times: 1
+	Query: "Cheilodactylus fasciatus" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Scarus taeniopterus" ; Times: 1
+	Query: "&#34;Pseudorasbora parva&#34;" ; Times: 1
+	Query: "Sparisoma viride" ; Times: 1
+
+
+End of report.
