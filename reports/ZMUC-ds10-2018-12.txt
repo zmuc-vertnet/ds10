@@ -1,0 +1,233 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 973
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 183
+	Country: Germany ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 6
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-20 ; Times: 4
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 2
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 120
+	Date: 2018-12-11 ; Times: 32
+	Date: 2018-12-04 ; Times: 11
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-12 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Bulbonaricus davaoensis" ; Times: 1
+	Query: "KU 10036" ; Times: 1
+	Query: "KU-39806" ; Times: 1
+	Query: "Synchiropus phaeton" ; Times: 1
+	Query: "Bulbonaricus brauni" ; Times: 1
+	Query: "KU 17741" ; Times: 1
+	Query: "Synchiropus atrilabiatus" ; Times: 1
+	Query: "Hippocampus erectus" ; Times: 1
+	Query: "KU 19729" ; Times: 1
+	Query: "Callionymus octostigmatus" ; Times: 1
+	Query: "Callionymus schaapii" ; Times: 1
+	Query: "Eleutherochir opercularis" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "Callionymus fasciatus" ; Times: 1
+	Query: "Centrodraco acanthopoma" ; Times: 1
+	Query: "KU 19886" ; Times: 1
+	Query: "laguna de terminos" ; Times: 1
+	Query: "Halicampus brocki" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "Macroramphosus scolopax" ; Times: 2
+	Query: "&#34;Carassius carassius&#34;" ; Times: 3
+	Query: "Syngnathus acus" ; Times: 2
+	Query: "southern tigrina" ; Times: 1
+	Query: "ku 17805" ; Times: 1
+	Query: "Corythoichthys schultzi" ; Times: 1
+	Query: "KU 17776" ; Times: 1
+	Query: "Paracallionymus costatus" ; Times: 1
+	Query: "KU 17770" ; Times: 1
+	Query: "Callionymus lyra" ; Times: 1
+	Query: "KU 10145" ; Times: 1
+	Query: "Corythoichthys intestinalis" ; Times: 2
+	Query: "Festucalex erythraeus" ; Times: 1
+	Query: "Callionymus curvicornis" ; Times: 1
+	Query: "Solegnathus spinosissimus" ; Times: 1
+	Query: "KU 14164" ; Times: 1
+	Query: "Corythoichthys amplexus" ; Times: 1
+	Query: "ku 10351" ; Times: 1
+	Query: "46137" ; Times: 2
+	Query: "KU 23532" ; Times: 1
+	Query: "Solenostomus armatus" ; Times: 1
+	Query: "ku 13537" ; Times: 1
+	Query: "Micrognathus natans" ; Times: 1
+	Query: "Syngnathus phlegon" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "KU 15583" ; Times: 1
+	Query: "Halicampus boothae" ; Times: 1
+	Query: "Callionymus lunatus" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 2
+	Query: "KU-51998" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "Solenostomus cyanopterus" ; Times: 1
+	Query: "Hippocampus abdominalis" ; Times: 1
+	Query: "Hippocampus kuda" ; Times: 2
+	Query: "KU 12693" ; Times: 1
+	Query: "Callionymus hindsii" ; Times: 1
+	Query: "KU 23392" ; Times: 1
+	Query: "Dactylopus dactylopus" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "Synchiropus altivelis" ; Times: 1
+	Query: "Hippocampus ingens" ; Times: 1
+	Query: "Callionymus persicus" ; Times: 1
+	Query: "Halicampus dunckeri" ; Times: 1
+	Query: "ku 11340" ; Times: 1
+	Query: "ku 15152" ; Times: 1
+	Query: "ku 15156" ; Times: 1
+	Query: "Callionymus belcheri" ; Times: 2
+	Query: "KU 17797" ; Times: 1
+	Query: "Nerophis ophidion" ; Times: 1
+	Query: "Minyichthys brachyrhinus" ; Times: 1
+	Query: "KU 17798" ; Times: 1
+	Query: "ku 6655" ; Times: 1
+	Query: "KU 12600" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Callionymus keeleyi" ; Times: 1
+	Query: "Callionymus maculatus" ; Times: 1
+	Query: "Nerophis lumbriciformis" ; Times: 1
+	Query: "cynoglossus abbreviatus" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "KU-19351" ; Times: 2
+	Query: "37809" ; Times: 1
+	Query: "Choeroichthys sculptus" ; Times: 2
+	Query: "KU 17786" ; Times: 1
+	Query: "Callionymus hildae" ; Times: 2
+	Query: "Penetopteryx taeniocephalus" ; Times: 2
+	Query: "Bhanotia fasciolata" ; Times: 1
+	Query: "Acentronura gracilissima" ; Times: 1
+	Query: "KU-60663" ; Times: 1
+	Query: "ku 23654" ; Times: 1
+	Query: "Callionymus sagitta" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Dactyloptena orientalis" ; Times: 1
+	Query: "Halicampus grayi" ; Times: 1
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "KU 17713" ; Times: 1
+	Query: "Centriscus scutatus" ; Times: 1
+	Query: "Hippichthys heptagonus" ; Times: 1
+	Query: "Callionymus doryssus" ; Times: 1
+	Query: "Dactyloptena gilberti" ; Times: 1
+	Query: "Cosmocampus retropinnis" ; Times: 1
+	Query: "Syngnathoides biaculeatus" ; Times: 1
+	Query: "KU-19327" ; Times: 1
+	Query: "Callionymus hainanensis" ; Times: 1
+	Query: "Corythoichthys flavofasciatus" ; Times: 1
+	Query: "KU-4248" ; Times: 1
+	Query: "KU 19887" ; Times: 1
+	Query: "Aeoliscus punctulatus" ; Times: 1
+	Query: "39747" ; Times: 1
+	Query: "KU 12383" ; Times: 1
+	Query: "KU 12389" ; Times: 1
+	Query: "Siokunichthys breviceps" ; Times: 1
+	Query: "KU 17709" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 1
+	Query: "Aeoliscus strigatus" ; Times: 1
+	Query: "KU 17701" ; Times: 2
+	Query: "Callionymus meridionalis" ; Times: 1
+	Query: "Entelurus aequoreus" ; Times: 1
+	Query: "cynoglossus brachycephalus" ; Times: 1
+	Query: "Corythoichthys haematopterus" ; Times: 2
+	Query: "Hippocampus trimaculatus" ; Times: 3
+	Query: "Callionymus amboina" ; Times: 1
+	Query: "Pegasus volitans" ; Times: 1
+	Query: "Callionymus marleyi" ; Times: 2
+	Query: "Hippocampus mohnikei" ; Times: 1
+	Query: "Lepidosiren paradoxa" ; Times: 4
+	Query: "KU 12358" ; Times: 1
+	Query: "Minyichthys sentus" ; Times: 1
+	Query: "KU 10186" ; Times: 1
+	Query: "Festucalex gibbsi" ; Times: 1
+	Query: "KU 12398" ; Times: 2
+	Query: "Siokunichthys herrei" ; Times: 1
+	Query: "KU 23352" ; Times: 1
+	Query: "Choeroichthys cinctus" ; Times: 1
+	Query: "alepisaurus brevirostris" ; Times: 1
+	Query: "Callionymus valenciennei" ; Times: 1
+	Query: "Solenostomus paradoxus" ; Times: 1
+	Query: "Callionymus enneactis" ; Times: 1
+	Query: "Callionymus superbus" ; Times: 1
+	Query: "Ichthyocampus carce" ; Times: 1
+	Query: "KU-62523" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 3
+	Query: "KU-39819" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "tikopia" ; Times: 1
+	Query: "Hippocampus coronatus" ; Times: 2
+	Query: "Festucalex wassi" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "Centriscops humerosus" ; Times: 1
+	Query: "Callionymus japonicus" ; Times: 1
+	Query: "Syngnathus californiensis" ; Times: 1
+	Query: "Micrognathus brevirostris" ; Times: 1
+	Query: "ku 15688" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "ku 12816" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "Hippichthys spicifer" ; Times: 1
+	Query: "ku 18187" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "Choeroichthys brachysoma" ; Times: 2
+	Query: "Trachyrhamphus longirostris" ; Times: 1
+	Query: "Callionymus risso" ; Times: 2
+	Query: "Callionymus bairdi" ; Times: 1
+	Query: "Cosmocampus maxweberi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 809 download events in this period)
+Total number of records downloaded: 234
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "cynoglossus abbreviatus" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+
+
+End of report.
