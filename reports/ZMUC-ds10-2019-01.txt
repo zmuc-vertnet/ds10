@@ -1,0 +1,105 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 255
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 2
+	Country: United States ; Times: 21
+	Country: Slovakia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-07 ; Times: 5
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-09 ; Times: 5
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 10
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-24 ; Times: 10
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Paraplagusia japonica" ; Times: 1
+	Query: "zmuc fisk" ; Times: 1
+	Query: "Ablabes" ; Times: 1
+	Query: "Cynoglossus versicolor" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "Zapteryx" ; Times: 2
+	Query: "Epinephelus chlorostigma" ; Times: 5
+	Query: "ZMUC R-60104" ; Times: 2
+	Query: "48586" ; Times: 1
+	Query: "KU 22581" ; Times: 1
+	Query: "Hypsurus caryi" ; Times: 1
+	Query: "KU 8886" ; Times: 1
+	Query: "66527" ; Times: 1
+	Query: "KU 14792" ; Times: 1
+	Query: "ku 39642" ; Times: 2
+	Query: "rhinobatos schlegelii" ; Times: 5
+	Query: "54461" ; Times: 1
+	Query: "Anoxypristis cuspidatus" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "hucho hucho" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "anoxypristis" ; Times: 2
+	Query: "ku 39648" ; Times: 1
+	Query: "ku 39646" ; Times: 1
+	Query: "ku 39647" ; Times: 1
+	Query: "ku 39644" ; Times: 1
+	Query: "ku 39645" ; Times: 1
+	Query: "rhinobatos granulatus" ; Times: 1
+	Query: "ku 39640" ; Times: 1
+	Query: "ku 39641" ; Times: 1
+	Query: "58523" ; Times: 1
+	Query: "owenii" ; Times: 1
+	Query: "Cynoglossus sibogae" ; Times: 4
+	Query: "rennel" ; Times: 1
+	Query: "Cynoglossus robustus" ; Times: 1
+	Query: "KU 17709" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "mullus barbatus" ; Times: 2
+	Query: "Cynoglossus oligolepis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 962 download events in this period)
+Total number of records downloaded: 152
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+
+
+End of report.
