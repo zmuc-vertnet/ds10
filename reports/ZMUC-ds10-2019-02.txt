@@ -1,0 +1,129 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 241
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 17
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 37
+	Country: Slovakia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 5
+	Date: 2019-02-03 ; Times: 8
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-13 ; Times: 11
+	Date: 2019-02-24 ; Times: 4
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-27 ; Times: 3
+	Date: 2019-02-15 ; Times: 9
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aristostomias grimaldii" ; Times: 1
+	Query: "58978" ; Times: 1
+	Query: "KU-18447" ; Times: 2
+	Query: "KU 33840" ; Times: 2
+	Query: "Eustomias brevibarbatus" ; Times: 1
+	Query: "Eustomias furcifer" ; Times: 1
+	Query: "Astronesthes atlanticus" ; Times: 1
+	Query: "Chilomycterus spinosus" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "Oneirodes carlsbergi" ; Times: 1
+	Query: "ZMUC R-36150" ; Times: 2
+	Query: "KU 12276" ; Times: 1
+	Query: "KU-11527" ; Times: 1
+	Query: "KU 32565" ; Times: 1
+	Query: "Phalloptychus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "Pseudotolithus senegalensis" ; Times: 1
+	Query: "polyipnus triphanos" ; Times: 2
+	Query: "Bathytyphlops marionae" ; Times: 2
+	Query: "KU-5929" ; Times: 1
+	Query: "KU 33839" ; Times: 1
+	Query: "KU-56171" ; Times: 1
+	Query: "KU-56174" ; Times: 1
+	Query: "KU-56175" ; Times: 1
+	Query: "myleus micans" ; Times: 2
+	Query: "Rasbora trilineata" ; Times: 1
+	Query: "Priapella" ; Times: 1
+	Query: "Eustomias filifer" ; Times: 1
+	Query: "Carassius gibelio" ; Times: 1
+	Query: "Chitala chitala" ; Times: 1
+	Query: "rhinobatos schlegelii" ; Times: 3
+	Query: "KU-33551" ; Times: 1
+	Query: "Eustomias dendriticus" ; Times: 1
+	Query: "Xenophallus" ; Times: 1
+	Query: "Astronesthes micropogon" ; Times: 1
+	Query: "Bathymicrops multispinis" ; Times: 1
+	Query: "Bathypterois longipes" ; Times: 1
+	Query: "Masturus lanceolatus" ; Times: 2
+	Query: "polyipnus meteori" ; Times: 2
+	Query: "Melanostomias melanops" ; Times: 1
+	Query: "polyipnus indicus" ; Times: 1
+	Query: "incae" ; Times: 2
+	Query: "Borostomias mononema" ; Times: 1
+	Query: "Pseudoxiphophorus" ; Times: 1
+	Query: "Ctenochirichthys longimanus" ; Times: 1
+	Query: "Bathophilus longipinnis" ; Times: 1
+	Query: "Manta birostris" ; Times: 1
+	Query: "Eustomias acinosus" ; Times: 1
+	Query: "Ctenoscopelus phengodes" ; Times: 1
+	Query: "Psenes maculatus" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "KU 4864" ; Times: 1
+	Query: "manta birostris" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1227 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-24 ; Times: 11
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Limia" ; Times: 1
+	Query: "Priapella" ; Times: 1
+	Query: "Xenophallus" ; Times: 1
+	Query: "Phallichthys" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Pseudoxiphophorus" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "chrosomus neogaeus" ; Times: 1
+	Query: "Manta birostris" ; Times: 1
+	Query: "Phalloptychus" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "Heterandria" ; Times: 1
+	Query: "Girardinus" ; Times: 1
+	Query: "Phalloceros" ; Times: 1
+	Query: "Priapichthys" ; Times: 1
+
+
+End of report.
