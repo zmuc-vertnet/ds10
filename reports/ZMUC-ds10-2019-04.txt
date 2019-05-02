@@ -1,0 +1,129 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 356
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 10
+	Country: South Africa ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: United Kingdom ; Times: 4
+	Country: Switzerland ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 36
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-02 ; Times: 16
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 12
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 5
+	Date: 2019-04-01 ; Times: 14
+	Date: 2019-04-24 ; Times: 9
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 5
+	Date: 2019-04-08 ; Times: 4
+	Date: 2019-04-09 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "54933 KU" ; Times: 2
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "salminus hilarii" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "Emblemaria nivipes" ; Times: 2
+	Query: "Benthosema panamense" ; Times: 1
+	Query: "Barathronus multidens" ; Times: 7
+	Query: "ku 5791" ; Times: 2
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "zanobatus" ; Times: 1
+	Query: "psychrolutes phrictus" ; Times: 1
+	Query: "KU 5932" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Otocinclus affinis" ; Times: 1
+	Query: "KU 10186" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "57104" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "42584 KU" ; Times: 4
+	Query: "57103" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 2
+	Query: "ku 8886" ; Times: 2
+	Query: "KU 17776" ; Times: 2
+	Query: "Porogadus miles" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "KU 6933" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "KU 5143" ; Times: 1
+	Query: "Neoclinus blanchardi" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "Tanichthys albonubes" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "Synodontis afrofischeri" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "ceratias" ; Times: 3
+	Query: "59237" ; Times: 1
+	Query: "salminus" ; Times: 1
+	Query: "Oligopus ater" ; Times: 2
+	Query: "KU 23169" ; Times: 2
+	Query: "pamir" ; Times: 2
+	Query: "53583" ; Times: 1
+	Query: "42583 KU" ; Times: 3
+	Query: "atractosteus tristoechus" ; Times: 2
+	Query: "46954" ; Times: 1
+	Query: "ku 10756" ; Times: 2
+	Query: "ku 23086" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1263 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 1
+	Query: "Sebastolobus alascanus" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+
+
+End of report.
