@@ -1,0 +1,141 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 423
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 7
+	Country: Portugal ; Times: 36
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 44
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Taiwan ; Times: 3
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 2
+	Date: 2019-03-27 ; Times: 4
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 5
+	Date: 2019-03-05 ; Times: 3
+	Date: 2019-03-04 ; Times: 6
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-29 ; Times: 8
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-30 ; Times: 4
+	Date: 2019-03-31 ; Times: 8
+	Date: 2019-03-18 ; Times: 5
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-14 ; Times: 6
+	Date: 2019-03-15 ; Times: 4
+	Date: 2019-03-12 ; Times: 18
+	Date: 2019-03-13 ; Times: 6
+	Date: 2019-03-10 ; Times: 2
+	Date: 2019-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Macropodus opercularis" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "KU 32109" ; Times: 1
+	Query: "falcarius" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "56147" ; Times: 1
+	Query: "abramis brama" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "Paraliparis hystrix" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "manta birostris" ; Times: 1
+	Query: "KU 12108" ; Times: 1
+	Query: "Barathronus multidens" ; Times: 1
+	Query: "KU-26688" ; Times: 1
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "Monognathus jesperseni" ; Times: 1
+	Query: "KU 39415" ; Times: 1
+	Query: "Diaphus adenomus" ; Times: 2
+	Query: "62264" ; Times: 1
+	Query: "39771" ; Times: 1
+	Query: "Pseudotolithus senegalensis" ; Times: 1
+	Query: "KU 20686" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 4
+	Query: "specificepithet:oglinum genus:Opisthonema" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "osphronemus goramy" ; Times: 1
+	Query: "Argentina sphyraena" ; Times: 2
+	Query: "Saccopharynx harrisoni" ; Times: 1
+	Query: "Oligopus ater" ; Times: 1
+	Query: "Pegusa lascaris" ; Times: 2
+	Query: "Crenidens" ; Times: 1
+	Query: "Atherina hepsetus" ; Times: 1
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "Anarhichas denticulatus" ; Times: 1
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "Muraena helena" ; Times: 3
+	Query: "Manta birostris" ; Times: 1
+	Query: "aphanius iberus" ; Times: 3
+	Query: "KU 16440" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 2
+	Query: "Macrourus berglax" ; Times: 1
+	Query: "54495" ; Times: 1
+	Query: "Porogadus miles" ; Times: 2
+	Query: "ku 32113" ; Times: 1
+	Query: "Anarhichas minor" ; Times: 1
+	Query: "Isla Guadalupe AND 1907" ; Times: 1
+	Query: "Raja montagui" ; Times: 2
+	Query: "KU 23676" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "genus:Mobula" ; Times: 1
+	Query: "Labrus viridis" ; Times: 1
+	Query: "Diaphus vanhoeffeni" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Hemipsilichthys" ; Times: 3
+	Query: "Ataxolepis" ; Times: 1
+	Query: "54471" ; Times: 1
+	Query: "dibranchus spinosus" ; Times: 15
+	Query: "Thalassobathia pelagica" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "narcetes" ; Times: 1
+	Query: "Mustelus asterias" ; Times: 2
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "Rondeletia bicolor" ; Times: 1
+	Query: "KU 9610" ; Times: 1
+	Query: "Astronesthes atlanticus" ; Times: 1
+	Query: "KU 7888" ; Times: 1
+	Query: "notopterus chitala" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "Silurus glanis" ; Times: 1
+	Query: "Brachydeuterus auritus" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1281 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;morone americana&#34;" ; Times: 1
+	Query: "Acanthemblemaria macrospilus" ; Times: 1
+
+
+End of report.
