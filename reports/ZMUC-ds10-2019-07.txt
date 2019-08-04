@@ -1,0 +1,177 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 1294
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 88
+	Country: Germany ; Times: 6
+	Country: Colombia ; Times: 6
+	Country: Denmark ; Times: 6
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 11
+	Date: 2019-07-08 ; Times: 58
+	Date: 2019-07-21 ; Times: 4
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-05 ; Times: 9
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 6
+	Date: 2019-07-17 ; Times: 3
+	Date: 2019-07-07 ; Times: 4
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-19 ; Times: 4
+	Date: 2019-07-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "2874 ku" ; Times: 1
+	Query: "harrison zoological museum" ; Times: 1
+	Query: "genus:Parenchelyurus specificepithet:hepburni" ; Times: 1
+	Query: "genus:Gonostoma specificepithet:atlanticum" ; Times: 1
+	Query: "genus:Poromitra specificepithet:capito" ; Times: 1
+	Query: "genus:Scopelarchus specificepithet:guentheri" ; Times: 1
+	Query: "KU 45898" ; Times: 1
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "genus:Halargyreus" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "genus:Grammatostomias specificepithet:dentatus" ; Times: 1
+	Query: "genus:Sardina specificepithet:pilchardus" ; Times: 1
+	Query: "genus:Uaru specificepithet:amphiacanthoides" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:reticulatus" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "genus:Cottus specificepithet:poecilopus" ; Times: 1
+	Query: "procatopus" ; Times: 2
+	Query: "pterois lunulata" ; Times: 2
+	Query: "KU 55292" ; Times: 1
+	Query: "genus:Sphyraena specificepithet:sphyraena" ; Times: 1
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "69829" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "ku 14767" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:zugei" ; Times: 1
+	Query: "KU 44799" ; Times: 1
+	Query: "KU 536" ; Times: 1
+	Query: "genus:Aristostomias specificepithet:grimaldii" ; Times: 1
+	Query: "Monolene danae" ; Times: 2
+	Query: "KU 35708" ; Times: 1
+	Query: "ku 14791" ; Times: 1
+	Query: "Raja inornata" ; Times: 1
+	Query: "genus:Gudusia specificepithet:chapra" ; Times: 1
+	Query: "genus:Taaningichthys specificepithet:bathyphilus" ; Times: 1
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "genus:Pterengraulis specificepithet:atherinoides" ; Times: 1
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "KU 55462" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:spinosus" ; Times: 1
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "KU 52202" ; Times: 1
+	Query: "genus:Hippichthys specificepithet:heptagonus" ; Times: 1
+	Query: "genus:Ilisha specificepithet:elongata" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "KU 5752" ; Times: 2
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "KU 1009" ; Times: 1
+	Query: "KU 63835" ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "59041" ; Times: 1
+	Query: "genus:Ramnogaster specificepithet:arcuata" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "KU 52292" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:guttata" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "musa" ; Times: 1
+	Query: "genus:Boleophthalmus specificepithet:boddarti" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "KU 51249" ; Times: 1
+	Query: "KU 55440" ; Times: 1
+	Query: "KU 55447" ; Times: 1
+	Query: "genus:Benthodesmus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Lebetus" ; Times: 1
+	Query: "genus:Pseudoscopelus" ; Times: 1
+	Query: "Oxyeleotris marmorata" ; Times: 1
+	Query: "country:&#34;brazil&#34; institutioncode:ZMUC" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "KU 48431" ; Times: 1
+	Query: "ku 29298" ; Times: 2
+	Query: "genus:Melanostomias specificepithet:valdiviae" ; Times: 1
+	Query: "genus:Coryphoblennius specificepithet:galerita" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:akajei" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "ku 16918" ; Times: 2
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "KU 67594" ; Times: 1
+	Query: "28317 FISH" ; Times: 1
+	Query: "genus:Awaous specificepithet:ocellaris" ; Times: 1
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "pterois russelli" ; Times: 1
+	Query: "genus:Anchovia specificepithet:macrolepidota" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "KU 5780" ; Times: 2
+	Query: "Raja binoculata" ; Times: 1
+	Query: "KU 65025" ; Times: 1
+	Query: "genus:Reganochromis specificepithet:calliurus" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "genus:Dasyatis specificepithet:margarita" ; Times: 1
+	Query: "barbatus isabel" ; Times: 1
+	Query: "genus:Blennius specificepithet:ocellaris" ; Times: 1
+	Query: "KU 3245" ; Times: 1
+	Query: "Amblyraja hyperborea" ; Times: 2
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "genus:Neobythites specificepithet:gilli" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 985 download events in this period)
+Total number of records downloaded: 695
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Protopterus" ; Times: 3
+	Query: "locality:Coronados" ; Times: 1
+	Query: "country:&#34;brazil&#34; institutioncode:ZMUC" ; Times: 2
+
+
+End of report.
