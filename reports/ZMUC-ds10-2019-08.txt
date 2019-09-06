@@ -1,0 +1,156 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 601
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 43
+	Country: Germany ; Times: 4
+	Country: Greece ; Times: 1
+	Country: Venezuela ; Times: 15
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-08 ; Times: 7
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-19 ; Times: 11
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 43
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 15
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Bathophilus brevis" ; Times: 1
+	Query: "Corynopoma riisei" ; Times: 1
+	Query: "Hemibrycon taeniurus" ; Times: 1
+	Query: "Pimelodus maculatus" ; Times: 1
+	Query: "Gnathonemus" ; Times: 4
+	Query: "Arapaima gigas" ; Times: 3
+	Query: "Pristis pECTINATA" ; Times: 1
+	Query: "ku 11694" ; Times: 1
+	Query: "DASYATIS centroura" ; Times: 1
+	Query: "Gymnotus carapo" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "genus:Platycephalus specificepithet:celebicus" ; Times: 1
+	Query: "Chrysichthys nigrodigitatus" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: "Piabina argentea" ; Times: 1
+	Query: "Leporinus elongatus" ; Times: 1
+	Query: "Etmopterus gracilispinis" ; Times: 2
+	Query: "Chalceus macrolepidotus" ; Times: 1
+	Query: "Eigenmannia virescens" ; Times: 1
+	Query: "Neosilurus hyrtlii" ; Times: 1
+	Query: "Pellona flavipinnis" ; Times: 1
+	Query: "DASYATIS guttatA" ; Times: 1
+	Query: "catalognumber:66815" ; Times: 1
+	Query: "KU-19932" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "Symphysodon discus" ; Times: 1
+	Query: "Crenicichla lepidota" ; Times: 1
+	Query: "56339" ; Times: 1
+	Query: "Roeboides xenodon" ; Times: 1
+	Query: "schindleria" ; Times: 2
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Bathophilus digitatus" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 2
+	Query: "Clarias fuscus" ; Times: 1
+	Query: "KU 46382" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "KU 55462" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Clarias dussumieri" ; Times: 1
+	Query: "Trachelyopterus galeatus" ; Times: 1
+	Query: "MANTA birostris" ; Times: 1
+	Query: "PRISTIS PEROTTETI" ; Times: 1
+	Query: "catalognumber:46100" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "Hypophthalmus marginatus" ; Times: 1
+	Query: "40513" ; Times: 1
+	Query: "Makaira nigricans" ; Times: 1
+	Query: "Corydoras rabauti" ; Times: 1
+	Query: "Humboldtiana" ; Times: 1
+	Query: "catalognumber:48611" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Pseudocorynopoma doriae" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "Bulbonaricus" ; Times: 1
+	Query: "67129" ; Times: 1
+	Query: "Pimelodus ornatus" ; Times: 1
+	Query: "rHINObatos percellens" ; Times: 1
+	Query: "Bidenichthys beeblebroxi" ; Times: 1
+	Query: "69462" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 1
+	Query: "KU 12155" ; Times: 1
+	Query: "Heteropneustes fossilis" ; Times: 1
+	Query: "Pseudopimelodus charus" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "Callichthys callichthys" ; Times: 1
+	Query: "28575" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "genus:Poecilothrissa specificepithet:congica" ; Times: 1
+	Query: "ku 11709" ; Times: 2
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Geotria" ; Times: 1
+	Query: "Pseudopimelodus bufonius" ; Times: 1
+	Query: "Sorubim lima" ; Times: 1
+	Query: "genus:Gilbertidia specificepithet:sigalutes" ; Times: 1
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "Characidium zebra" ; Times: 1
+	Query: "genus:Coelorhynchus specificepithet:coelorhynchus" ; Times: 1
+	Query: "69631" ; Times: 1
+	Query: "Loricaria cataphracta" ; Times: 1
+	Query: "Myliobatis goodei" ; Times: 1
+	Query: "Xenophthalmichthys danae" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 1
+	Query: "Muraena helena" ; Times: 1
+	Query: "Pimelodus altissimus" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "39641" ; Times: 1
+	Query: "Pimelodus albicans" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 1
+	Query: "Creagrutus muelleri" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1034 download events in this period)
+Total number of records downloaded: 74
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "typhlops" ; Times: 1
+
+
+End of report.
