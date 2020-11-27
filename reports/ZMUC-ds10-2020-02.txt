@@ -1,0 +1,221 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 233
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: South Africa ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 100
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 20
+	Country: Argentina ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-06 ; Times: 5
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-04 ; Times: 8
+	Date: 2020-02-09 ; Times: 9
+	Date: 2020-02-28 ; Times: 20
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 8
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 6
+	Date: 2020-02-17 ; Times: 8
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 40
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "nematogobius" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "ku 24382" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "KU 41867" ; Times: 1
+	Query: "Hephthocara" ; Times: 1
+	Query: "Saccogaster" ; Times: 1
+	Query: "ku 56980" ; Times: 1
+	Query: "ku 24308" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "KU 30509" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "monognathus rosenblatti" ; Times: 1
+	Query: "KU 25211" ; Times: 1
+	Query: "KU 5083" ; Times: 1
+	Query: "KU 32093" ; Times: 1
+	Query: "KU 12740" ; Times: 1
+	Query: "Microbrotula rubra" ; Times: 1
+	Query: "KU 22540" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "ku 24378" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "Melanostigma gelatinosum" ; Times: 1
+	Query: "ku 25857" ; Times: 2
+	Query: "chromogobius" ; Times: 1
+	Query: "KU 26387" ; Times: 1
+	Query: "KU 26386" ; Times: 1
+	Query: "KU 26385" ; Times: 1
+	Query: "KU 22541" ; Times: 1
+	Query: "KU 24344" ; Times: 1
+	Query: "ku 24260" ; Times: 1
+	Query: "KU 26388" ; Times: 1
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "KU 20686" ; Times: 1
+	Query: "Thyrsitops" ; Times: 1
+	Query: "ku 31174" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "KU 24223" ; Times: 1
+	Query: "KU 26495" ; Times: 1
+	Query: "wheelerigobius" ; Times: 1
+	Query: "KU 32858" ; Times: 1
+	Query: "Clarias fuscus" ; Times: 1
+	Query: "KU 26425" ; Times: 1
+	Query: "tilapia buettikoferi" ; Times: 2
+	Query: "Tilapia guineensis" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "KU 26309" ; Times: 1
+	Query: "KU 26308" ; Times: 1
+	Query: "zebrus" ; Times: 1
+	Query: "KU 26304" ; Times: 1
+	Query: "KU 26303" ; Times: 1
+	Query: "hetereleotris" ; Times: 1
+	Query: "stegostoma" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Solea ovata" ; Times: 1
+	Query: "KU 30461" ; Times: 1
+	Query: "Nematops" ; Times: 7
+	Query: "KU 26536" ; Times: 1
+	Query: "KU 26537" ; Times: 1
+	Query: "ku 22541" ; Times: 1
+	Query: "ku 22540" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "ku 24437" ; Times: 1
+	Query: "KU 2978" ; Times: 1
+	Query: "eridacnis" ; Times: 1
+	Query: "KU 26332" ; Times: 1
+	Query: "KU 24322" ; Times: 1
+	Query: "ku 24223" ; Times: 1
+	Query: "ku 26495" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "KU 67004" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "Coregonus albula" ; Times: 1
+	Query: "KU 26352" ; Times: 1
+	Query: "Bidenichthys" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "KU 24255" ; Times: 1
+	Query: "KU 24318" ; Times: 1
+	Query: "KU 7418" ; Times: 1
+	Query: "sufflogobius" ; Times: 1
+	Query: "KU 7020" ; Times: 1
+	Query: "KU 26345" ; Times: 1
+	Query: "KU 24382" ; Times: 1
+	Query: "KU 50292" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "ku 26536" ; Times: 1
+	Query: "ku 26537" ; Times: 1
+	Query: "KU 13544" ; Times: 1
+	Query: "KU 24260" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "ku 24322" ; Times: 1
+	Query: "KU 20567" ; Times: 1
+	Query: "thorogobius" ; Times: 1
+	Query: "Poecilopsetta colorata" ; Times: 2
+	Query: "23630 KU" ; Times: 2
+	Query: "KU 30524" ; Times: 1
+	Query: "KU 30525" ; Times: 1
+	Query: "Microbrotula" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "Ku 21632" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "Myxine ios" ; Times: 2
+	Query: "ku 19110" ; Times: 1
+	Query: "ku 24255" ; Times: 2
+	Query: "KU 24378" ; Times: 1
+	Query: "ku 21091" ; Times: 2
+	Query: "Bythites fuscus" ; Times: 1
+	Query: "KU 24308" ; Times: 1
+	Query: "Raja radula" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1023 download events in this period)
+Total number of records downloaded: 870
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 14
+	Country: United States ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Iraq ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-04 ; Times: 5
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "kurdistan" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Gymnoscopelus bolini" ; Times: 1
+
+
+End of report.
