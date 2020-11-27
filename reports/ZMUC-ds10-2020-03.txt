@@ -1,0 +1,182 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 405
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 64
+	Country: Australia ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: South Africa ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Venezuela ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-06 ; Times: 5
+	Date: 2020-03-18 ; Times: 7
+	Date: 2020-03-31 ; Times: 9
+	Date: 2020-03-02 ; Times: 5
+	Date: 2020-03-26 ; Times: 9
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-23 ; Times: 15
+	Date: 2020-03-22 ; Times: 3
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-20 ; Times: 7
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-04 ; Times: 6
+	Date: 2020-03-28 ; Times: 5
+	Date: 2020-03-12 ; Times: 5
+	Date: 2020-03-13 ; Times: 7
+	Date: 2020-03-03 ; Times: 4
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 50801" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 3
+	Query: "(11044)" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "60756" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "Etmopterus gracilispinis" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "R.57365" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "Protomyctophum luciferum" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "Clarias fuscus" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "institutioncode:zmuc Afghanistan 1948" ; Times: 1
+	Query: "chondrostoma nasus" ; Times: 2
+	Query: "58767" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Protomyctophum gemmatum" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "cobitis taenia" ; Times: 2
+	Query: "37120" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "Biaro" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "(49083)" ; Times: 1
+	Query: "Chapalichthys" ; Times: 3
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "*" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "ku 18643" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "(49093)" ; Times: 2
+	Query: "52022" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "Chapalichthys pardalis" ; Times: 1
+	Query: "Monognathus" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "ku 47215" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Myliobatis goodei" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "Sarda chiliensis" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "Centrophorus squamosus" ; Times: 1
+	Query: "Symbolophorus boops" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "5294 KU" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 2
+	Query: "57155" ; Times: 1
+	Query: "Raja radula" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 853 download events in this period)
+Total number of records downloaded: 250
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 14
+	Country: United States ; Times: 3
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-11 ; Times: 4
+	Date: 2020-03-12 ; Times: 6
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "Taaningichthys bathyphilus" ; Times: 2
+	Query: "Protomyctophum luciferum" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "Protomyctophum gemmatum" ; Times: 1
+	Query: "Protomyctophum subparallelum" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Electrona antarctica" ; Times: 2
+	Query: "Trachycephalus" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Protomyctophum andriashevi" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "Symbolophorus boops" ; Times: 1
+	Query: "cobitis taenia" ; Times: 1
+	Query: "lates calcarifer" ; Times: 2
+	Query: "Protomyctophum normani" ; Times: 2
+	Query: "Symbolophorus barnardi" ; Times: 1
+	Query: "specificepithet:antarctica genus:Electrona" ; Times: 1
+
+
+End of report.
