@@ -1,0 +1,137 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 315
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 61
+	Country: Ireland ; Times: 17
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-29 ; Times: 6
+	Date: 2020-05-02 ; Times: 4
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-06 ; Times: 7
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-09 ; Times: 3
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-10 ; Times: 11
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-04 ; Times: 8
+	Date: 2020-05-15 ; Times: 6
+	Date: 2020-05-01 ; Times: 8
+	Date: 2020-05-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "ku 15583" ; Times: 2
+	Query: "45761" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "chirophryne xenolophus" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "KU 22064" ; Times: 2
+	Query: "34415" ; Times: 1
+	Query: "KU 11150" ; Times: 2
+	Query: "50345" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "genypterus chilensis" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "Melamphaes suborbitalis" ; Times: 2
+	Query: "Musa" ; Times: 1
+	Query: "naso thynnoides" ; Times: 2
+	Query: "KU 20172" ; Times: 2
+	Query: "51940" ; Times: 1
+	Query: "eumegistus illustris" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "6363 ku" ; Times: 2
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "36803" ; Times: 1
+	Query: "KU 8577" ; Times: 2
+	Query: "ku 21289" ; Times: 2
+	Query: "34410" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "hapalogenys nigripinnis" ; Times: 1
+	Query: "KU 6676" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "KU 815" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "jenkinsia stolifera" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "KU 20893" ; Times: 2
+	Query: "guavina guavina" ; Times: 1
+	Query: "KU 18001" ; Times: 1
+	Query: "coregonus lavaretus" ; Times: 1
+	Query: "Barbus jae" ; Times: 2
+	Query: "43990" ; Times: 1
+	Query: "Solenostomus" ; Times: 1
+	Query: "Muraena clepsydra" ; Times: 2
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "64968" ; Times: 1
+	Query: "specificepithet:erosa genus:erosa" ; Times: 1
+	Query: "Solenostomus armatus" ; Times: 2
+	Query: "hippoglossina macrops" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "denticeps clupeoides" ; Times: 1
+	Query: "halimochirurgus centriscoides" ; Times: 1
+	Query: "florenciella lugubris" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 1
+	Query: "44752" ; Times: 1
+	Query: "isacia conceptionis" ; Times: 1
+	Query: "clidoderma asperrimum" ; Times: 2
+	Query: "64705" ; Times: 1
+	Query: "KU 21590" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1106 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Catostomus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+
+
+End of report.
