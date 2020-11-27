@@ -1,0 +1,138 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 230
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 5
+	Country: Portugal ; Times: 2
+	Country: South Africa ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Singapore ; Times: 7
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Japan ; Times: 2
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-03 ; Times: 4
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-06 ; Times: 4
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 14
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 4
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "54986" ; Times: 2
+	Query: "41501" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "specificepithet:gigas genus:arapaima" ; Times: 1
+	Query: "O.58135" ; Times: 1
+	Query: "tilapia mariae" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "54378" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 4
+	Query: "Lepidosiren" ; Times: 1
+	Query: "No. O.58135" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "ku 27069" ; Times: 2
+	Query: "Owstonia" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Nannobrachium achirus" ; Times: 2
+	Query: "reticulata Poecilia" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "mykiss Oncorhynchus" ; Times: 1
+	Query: "arapaima gigas" ; Times: 3
+	Query: "Labeo rohita." ; Times: 1
+	Query: "Gymnallabes" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 7
+	Query: "ku 23185" ; Times: 2
+	Query: "Bathophilus schizochirus" ; Times: 1
+	Query: "Menidia menidia" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "Bythites" ; Times: 1
+	Query: "hemigrammus rhodostomus" ; Times: 1
+	Query: "leucicorus" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "phractolaemus ansorgii" ; Times: 1
+	Query: "ku 26958" ; Times: 2
+	Query: "62878" ; Times: 1
+	Query: "specificepithet:taylori genus:Rhizoprionodon" ; Times: 2
+	Query: "Ctenoscopelus phengodes" ; Times: 1
+	Query: "family:molidae" ; Times: 7
+	Query: "Silurus glanis" ; Times: 3
+	Query: "62875" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1584 download events in this period)
+Total number of records downloaded: 612
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "Electrona risso" ; Times: 1
+	Query: "Electrona antarctica" ; Times: 1
+	Query: "Diaphus ostenfeldi" ; Times: 1
+	Query: "Benthosema suborbitale" ; Times: 1
+	Query: "Lampanyctus achirus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "Diaphus danae" ; Times: 2
+	Query: "Diaphus hudsoni" ; Times: 1
+	Query: "Electrona carlsbergi" ; Times: 1
+	Query: "Ceratoscopelus warmingii" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "Nannobrachium achirus" ; Times: 1
+	Query: "Ctenoscopelus phengodes" ; Times: 1
+	Query: "Myctophum phengodes" ; Times: 2
+	Query: "tilapia mariae" ; Times: 1
+	Query: "Diaphus meadi" ; Times: 1
+	Query: "Diogenichthys atlanticus" ; Times: 1
+
+
+End of report.
