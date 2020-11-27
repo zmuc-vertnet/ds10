@@ -1,0 +1,173 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 542
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 5
+	Country: Singapore ; Times: 11
+	Country: United Kingdom ; Times: 13
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 84
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 12
+	Date: 2019-11-21 ; Times: 4
+	Date: 2019-11-22 ; Times: 3
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-18 ; Times: 9
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-27 ; Times: 4
+	Date: 2019-11-06 ; Times: 8
+	Date: 2019-11-14 ; Times: 9
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-16 ; Times: 7
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-10 ; Times: 4
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 31
+	Date: 2019-11-29 ; Times: 5
+	Date: 2019-11-26 ; Times: 10
+	Date: 2019-11-24 ; Times: 3
+	Date: 2019-11-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "54056" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "Barathronus multidens" ; Times: 3
+	Query: "53648" ; Times: 1
+	Query: "cetostoma" ; Times: 1
+	Query: "specificepithet:flavipinnis genus:Aplocheilichthys" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "locality:bonney" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "Vimba vimba" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "Abramis bjoerkna" ; Times: 1
+	Query: "etmopterus molleri" ; Times: 1
+	Query: "Oxynotus centrina vntype:specimen" ; Times: 1
+	Query: "Bathophilus schizochirus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Brotula multibarbata" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "Somniosus microcephalus vntype:specimen" ; Times: 3
+	Query: "centropomus undecimalis vntype:specimen year &lt;= 1900" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "genus:etmopterus country:&#34;japan&#34;" ; Times: 4
+	Query: "Heterodontus francisci" ; Times: 1
+	Query: "Engraulicypris argenteus" ; Times: 1
+	Query: "etmopterus spinax" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "Monognathus jesperseni" ; Times: 1
+	Query: "etmopterus baxteri" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "trichiurus lepturus vntype:specimen year &lt;= 1900" ; Times: 1
+	Query: "Caranx sexfasciatus" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "KU 7680" ; Times: 2
+	Query: "trichiurus lepturus vntype:specimen year &lt;= 1860" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "Apterygocampus" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "Aspius aspius" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "diodon hystrix linnaeus" ; Times: 2
+	Query: "58676" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "KU 13485" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "Scomberomorus concolor vntype:specimen year &lt;= 1900" ; Times: 2
+	Query: "43136" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "ku 15465" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "Similan Thailand" ; Times: 1
+	Query: "hemigrammus rhodostomus" ; Times: 2
+	Query: "35568" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "vntype:specimen locality:Spitzbergen" ; Times: 2
+	Query: "53460" ; Times: 2
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "echidna zebra" ; Times: 4
+	Query: "Thunnus alalunga" ; Times: 2
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 10
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "Eustomias dendriticus" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "Galeus polli" ; Times: 2
+	Query: "echidna zebra vntype:specimen year &lt;= 1900" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &lt;= 1900" ; Times: 1
+	Query: "eupomacentrus rectifraenum" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1367 download events in this period)
+Total number of records downloaded: 189
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "etmopterus" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "(tilapia)" ; Times: 1
+	Query: "vntype:specimen locality:Spitzbergen" ; Times: 1
+
+
+End of report.
