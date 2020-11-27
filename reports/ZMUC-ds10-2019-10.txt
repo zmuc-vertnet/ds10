@@ -1,0 +1,287 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 358
+Number of records retrieved in searches: 1817
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 55
+	Country: Portugal ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 6
+	Country: United Kingdom ; Times: 9
+	Country: Germany ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 10
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 262
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 8
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 123
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 12
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-04 ; Times: 10
+	Date: 2019-10-07 ; Times: 11
+	Date: 2019-10-06 ; Times: 5
+	Date: 2019-10-23 ; Times: 149
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 5
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-16 ; Times: 9
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhizoprionodon taylori" ; Times: 2
+	Query: "Urolophus cruciatus" ; Times: 2
+	Query: "54212" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "KU 38662" ; Times: 1
+	Query: "&#34;Monolene microstoma&#34;" ; Times: 2
+	Query: "Torpedo fuscomaculata" ; Times: 2
+	Query: "12275 ku" ; Times: 2
+	Query: "Pseudotriakis microdon" ; Times: 2
+	Query: "Scyliorhinus stellaris" ; Times: 2
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "Rhinobatos schlegelii" ; Times: 2
+	Query: "Rhinobatos albomaculatus" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 2
+	Query: "Raja brachyura" ; Times: 1
+	Query: "Raja clavata" ; Times: 2
+	Query: "Vimba vimba" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "catalognumber:2450 institutioncode:ZMUC" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "Hemigaleus microstoma" ; Times: 2
+	Query: "KU 15882" ; Times: 2
+	Query: "52702" ; Times: 1
+	Query: "&#34;Acanthonus armatus&#34;" ; Times: 1
+	Query: "Etmopterus gracilispinis" ; Times: 1
+	Query: "Myliobatis goodei" ; Times: 2
+	Query: "Gymnura poecilura" ; Times: 2
+	Query: "Mustelus manazo" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "&#34;Histiobranchus australis&#34;" ; Times: 2
+	Query: "Mustelus asterias" ; Times: 2
+	Query: "Myliobatis aquila" ; Times: 2
+	Query: "Diplobatis ommata" ; Times: 2
+	Query: "50678" ; Times: 1
+	Query: "Parmaturus xaniurus" ; Times: 1
+	Query: "Apristurus laurussonii" ; Times: 2
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Eusphyra blochii" ; Times: 2
+	Query: "32783" ; Times: 1
+	Query: "Raja undulata" ; Times: 2
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "KU 18130" ; Times: 3
+	Query: "istiblennius persian gulf" ; Times: 1
+	Query: "temensis Cichla" ; Times: 2
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Neoharriotta pinnata" ; Times: 1
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Abramis brama" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "Somniosus rostratus" ; Times: 2
+	Query: "Chiloscyllium plagiosum" ; Times: 2
+	Query: "KU 23651" ; Times: 6
+	Query: "KU 23630" ; Times: 2
+	Query: "Haploblepharus edwardsii" ; Times: 2
+	Query: "Chimaera phantasma" ; Times: 2
+	Query: "68252" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "Psammobatis scobina" ; Times: 2
+	Query: "Raja inornata" ; Times: 2
+	Query: "18130 KU" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 2
+	Query: "Oxynotus bruniensis" ; Times: 2
+	Query: "Orectolobus japonicus" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "64055" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Pristis perotteti" ; Times: 1
+	Query: "Mustelus punctulatus" ; Times: 2
+	Query: "Raja straeleni" ; Times: 2
+	Query: "Carcharhinus amboinensis" ; Times: 2
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "Perca schrenkii" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Torpedo marmorata" ; Times: 2
+	Query: "Triakis scyllium" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Eridacnis barbouri" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "Mustelus californicus" ; Times: 2
+	Query: "Squatina japonica" ; Times: 2
+	Query: "krameri Umbra" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "Raja montagui" ; Times: 2
+	Query: "39463" ; Times: 1
+	Query: "Dasyatis marmorata" ; Times: 2
+	Query: "Zanobatus schoenleinii" ; Times: 2
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "Heteronarce garmani" ; Times: 1
+	Query: "KU 5294" ; Times: 2
+	Query: "Mola mola mappable:0" ; Times: 10
+	Query: "Narke capensis" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "amarus Rhodeus" ; Times: 1
+	Query: "Urolophus expansus" ; Times: 2
+	Query: "Temera hardwickii" ; Times: 1
+	Query: "Pristiophorus japonicus" ; Times: 1
+	Query: "Dasyatis pastinaca" ; Times: 2
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Malacoraja spinacidermis" ; Times: 1
+	Query: "Atelomycterus marmoratus" ; Times: 1
+	Query: "Narcine timlei" ; Times: 2
+	Query: "Etmopterus baxteri" ; Times: 2
+	Query: "Etmopterus molleri" ; Times: 1
+	Query: "Chiloscyllium indicum" ; Times: 2
+	Query: "Halaelurus buergeri" ; Times: 1
+	Query: "Leptostomias gladiator" ; Times: 1
+	Query: "ku 1342" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Myliobatis tobijei" ; Times: 2
+	Query: "Somniosus microcephalus" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "Rhinoptera javanica" ; Times: 2
+	Query: "66686" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "Centroscymnus crepidater" ; Times: 1
+	Query: "Psammobatis extenta" ; Times: 2
+	Query: "Scoliodon laticaudus" ; Times: 2
+	Query: "32998" ; Times: 1
+	Query: "Chaenogaleus macrostoma" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Zapteryx exasperata" ; Times: 2
+	Query: "Etmopterus brachyurus" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "Gymnura japonica" ; Times: 2
+	Query: "Leptocharias smithii" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Heterodontus japonicus" ; Times: 2
+	Query: "63905" ; Times: 1
+	Query: "Glyphis glyphis" ; Times: 1
+	Query: "Etmopterus princeps" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 2
+	Query: "Aetomylaeus milvus" ; Times: 1
+	Query: "ku 4686" ; Times: 1
+	Query: "vinciguerra" ; Times: 4
+	Query: "Galeus polli" ; Times: 1
+	Query: "Neoharriotta pumila" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Squalus mitsukurii" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "52049" ; Times: 1
+	Query: "Torpedo panthera" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "vntype:specimen (Phractolaemus)" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "Squatina argentina" ; Times: 2
+	Query: "51716" ; Times: 1
+	Query: "Rhinochimaera atlantica" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 2
+	Query: "27804 KU" ; Times: 1
+	Query: "Chiloscyllium griseum" ; Times: 2
+	Query: "Raja stellulata" ; Times: 2
+	Query: "Raja asterias" ; Times: 2
+	Query: "KU 22581" ; Times: 1
+	Query: "Centroscyllium fabricii" ; Times: 1
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "44016" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 2
+	Query: "67214" ; Times: 3
+	Query: "Niphon spinosus" ; Times: 1
+	Query: "Hydrolagus affinis" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Narcine tasmaniensis" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Eusphyra" ; Times: 1
+	Query: "23630 KU" ; Times: 3
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "KU 39564" ; Times: 1
+	Query: "Carcharhinus dussumieri" ; Times: 2
+	Query: "Mustelus antarcticus" ; Times: 2
+	Query: "Protopterus" ; Times: 1
+	Query: "Narke dipterygia" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "Etmopterus schultzi" ; Times: 1
+	Query: "Holohalaelurus regani" ; Times: 1
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "melanostomias melanops" ; Times: 1
+	Query: "Pristiophorus cirratus" ; Times: 2
+	Query: "Rhynchobatus djiddensis" ; Times: 2
+	Query: "Galeus melastomus" ; Times: 2
+	Query: "Hydrolagus pallidus" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 2
+	Query: "Discopyge tschudii" ; Times: 2
+	Query: "Etmopterus spinax" ; Times: 2
+	Query: "Raja miraletus" ; Times: 2
+	Query: "Bathyraja spinicauda" ; Times: 2
+	Query: "Amblyraja hyperborea" ; Times: 2
+	Query: "Centrophorus squamosus" ; Times: 2
+	Query: "Raja radula" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1308 download events in this period)
+Total number of records downloaded: 267
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gobius" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "Sardinops sagax" ; Times: 1
+
+
+End of report.
