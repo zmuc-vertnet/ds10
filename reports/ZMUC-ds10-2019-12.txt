@@ -1,0 +1,120 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 497
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Singapore ; Times: 8
+	Country: India ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 44
+	Country: Germany ; Times: 6
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-30 ; Times: 4
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-12 ; Times: 10
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-06 ; Times: 8
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-09 ; Times: 11
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 5
+	Date: 2019-12-05 ; Times: 8
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "Tilapia guinasana" ; Times: 1
+	Query: "59361" ; Times: 1
+	Query: "alectis ciliaris bloch" ; Times: 1
+	Query: "cynoscion nobilis ayres" ; Times: 1
+	Query: "country:&#34;india&#34; institutioncode:ZMUC" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 2
+	Query: "echidna zebra" ; Times: 3
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "Bathophilus schizochirus" ; Times: 6
+	Query: "KU 31174" ; Times: 1
+	Query: "ZMUC Sclateri" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "SP 3030" ; Times: 1
+	Query: "Lepidosiren" ; Times: 2
+	Query: "KU 20686" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 2
+	Query: "ku 33547" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "Scomberomorus concolor" ; Times: 3
+	Query: "50129" ; Times: 2
+	Query: "Eupomacentrus planifrons" ; Times: 3
+	Query: "55764" ; Times: 1
+	Query: "KU 7418" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "kaznakovi" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Carassius gibelio" ; Times: 1
+	Query: "Rhodeus sericeus" ; Times: 4
+	Query: "68443" ; Times: 1
+	Query: "KU 20567" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "KU 32093" ; Times: 1
+	Query: "ku 26919" ; Times: 1
+	Query: "Tilapia nyongana" ; Times: 1
+	Query: "52713" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "Labeo chariensis" ; Times: 2
+	Query: "Hypleurochilus aequipinnis" ; Times: 2
+	Query: "54011" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "37484" ; Times: 2
+	Query: "st. thomas vntype:specimen institutioncode:ZMUC" ; Times: 2
+	Query: "55084" ; Times: 1
+	Query: "KU 33106" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 596 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 1
+
+
+End of report.
