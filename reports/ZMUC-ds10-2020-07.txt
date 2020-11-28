@@ -1,0 +1,163 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 397
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 7
+	Country: Ireland ; Times: 65
+	Country: Mexico ; Times: 13
+	Country: France ; Times: 3
+	Country: United States ; Times: 42
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 10
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 6
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-24 ; Times: 11
+	Date: 2020-07-01 ; Times: 7
+	Date: 2020-07-29 ; Times: 3
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 44
+	Date: 2020-07-06 ; Times: 30
+	Date: 2020-07-19 ; Times: 12
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "58955" ; Times: 1
+	Query: "KU 17746" ; Times: 2
+	Query: "histiopterus typus" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "KU 18039" ; Times: 2
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "ku 12395" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "23690 KU" ; Times: 1
+	Query: "KU 12633" ; Times: 2
+	Query: "KU 12634" ; Times: 2
+	Query: "KU 32425" ; Times: 2
+	Query: "genus:Hypophthalmus" ; Times: 2
+	Query: "KU 17777" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "KU 7868" ; Times: 2
+	Query: "KU 31594" ; Times: 2
+	Query: "Hypophthalmus" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "KU 32869" ; Times: 2
+	Query: "KU 4996" ; Times: 2
+	Query: "KU 32481" ; Times: 2
+	Query: "ku 19966" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "KU 23851" ; Times: 1
+	Query: "ku 15931" ; Times: 1
+	Query: "KU 19907" ; Times: 2
+	Query: "diaphus coeruleus" ; Times: 3
+	Query: "KU 19664" ; Times: 2
+	Query: "ku 14015" ; Times: 1
+	Query: "epinephelus morrhua" ; Times: 2
+	Query: "52151" ; Times: 1
+	Query: "KU 28578" ; Times: 1
+	Query: "epinephelus malabaricus" ; Times: 2
+	Query: "23631 KU" ; Times: 2
+	Query: "KU 28606" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "KU 4987" ; Times: 2
+	Query: "etelis coruscans" ; Times: 1
+	Query: "KU 15377" ; Times: 2
+	Query: "KU 10313" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "KU 8646" ; Times: 1
+	Query: "KU 23326" ; Times: 2
+	Query: "Anchoviella perfasciata" ; Times: 1
+	Query: "KU 23325" ; Times: 2
+	Query: "Cycleptus elongatus" ; Times: 1
+	Query: "KU 23320" ; Times: 2
+	Query: "KU 15678" ; Times: 2
+	Query: "40514" ; Times: 2
+	Query: "KU 14052" ; Times: 2
+	Query: "47000" ; Times: 2
+	Query: "KU 8495" ; Times: 2
+	Query: "KU 11263" ; Times: 1
+	Query: "KU 23339" ; Times: 2
+	Query: "KU 29500" ; Times: 4
+	Query: "KU 29501" ; Times: 2
+	Query: "KU 29502" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "KU 34252" ; Times: 2
+	Query: "KU 21629" ; Times: 2
+	Query: "KU 23345" ; Times: 2
+	Query: "KU 24437" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "KU 18181" ; Times: 2
+	Query: "KU 17707" ; Times: 2
+	Query: "Cichla temensis" ; Times: 1
+	Query: "KU 15756" ; Times: 2
+	Query: "KU 12319" ; Times: 2
+	Query: "ku 17751" ; Times: 1
+	Query: "KU 12317" ; Times: 2
+	Query: "ku 27232" ; Times: 1
+	Query: "KU 15507" ; Times: 2
+	Query: "KU 12806" ; Times: 2
+	Query: "42543" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "KU 2075" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "23630 KU" ; Times: 2
+	Query: "KU 14223" ; Times: 2
+	Query: "KU 14222" ; Times: 2
+	Query: "Acropoma" ; Times: 1
+	Query: "ku 33255" ; Times: 2
+	Query: "KU 4092" ; Times: 2
+	Query: "Alopias" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "KU 33806" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "pristipomoides filamentosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 940 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Epigonus" ; Times: 1
+	Query: "genus:Hypophthalmus" ; Times: 1
+
+
+End of report.
