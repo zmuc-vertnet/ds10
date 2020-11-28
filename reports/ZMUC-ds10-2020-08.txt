@@ -1,0 +1,217 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 225
+Number of records retrieved in searches: 1971
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 62
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Honduras ; Times: 8
+	Country: Ireland ; Times: 58
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 45
+	Country: United Kingdom ; Times: 29
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 11
+	Date: 2020-08-29 ; Times: 18
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-12 ; Times: 3
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-19 ; Times: 23
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-02 ; Times: 11
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 6
+	Date: 2020-08-28 ; Times: 45
+	Date: 2020-08-07 ; Times: 18
+	Date: 2020-08-26 ; Times: 12
+	Date: 2020-08-09 ; Times: 3
+	Date: 2020-08-24 ; Times: 25
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-21 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "Petrocephalus bovei" ; Times: 1
+	Query: "specificepithet:laticeps genus:Cataetyx" ; Times: 2
+	Query: "Alburnus mossulensis" ; Times: 1
+	Query: "Epiplatys grahami" ; Times: 1
+	Query: "ku 13544" ; Times: 2
+	Query: "ku 13546" ; Times: 2
+	Query: "Isichthys henryi" ; Times: 1
+	Query: "KU 23674" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "Bajacalifornia megalops" ; Times: 1
+	Query: "Batrachoides surinamensis" ; Times: 1
+	Query: "Tylosurus pacificus" ; Times: 1
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "ku 30524" ; Times: 2
+	Query: "Distichodus fasciolatus" ; Times: 1
+	Query: "scartelaos" ; Times: 1
+	Query: "ku 12830" ; Times: 3
+	Query: "KU 24291" ; Times: 4
+	Query: "Lophius budegassa" ; Times: 1
+	Query: "Chrysichthys nigrodigitatus" ; Times: 1
+	Query: "atractoscion nobilis" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Hypleurochilus aequipinnis" ; Times: 2
+	Query: "Abramis brama" ; Times: 1
+	Query: "genus:Centrodraco" ; Times: 3
+	Query: "genus:Scartelaos" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "specificepithet:globiceps genus:Cetonurus" ; Times: 1
+	Query: "Heteroconger hassi" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "KU 26386" ; Times: 2
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "Melanogrammus aeglefinus" ; Times: 2
+	Query: "Eutrigla gurnardus" ; Times: 2
+	Query: "Micralestes acutidens" ; Times: 1
+	Query: "Aulichthys japonicus" ; Times: 1
+	Query: "Oligoplites saliens" ; Times: 1
+	Query: "KU 24220" ; Times: 2
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "specificepithet:granulosus genus:Centrophorus" ; Times: 1
+	Query: "Arapaima" ; Times: 1
+	Query: "ku 32971" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "ku 27770" ; Times: 2
+	Query: "66815" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "ku 30509" ; Times: 2
+	Query: "KU 26425" ; Times: 2
+	Query: "genus:Chascanopsetta" ; Times: 1
+	Query: "Scophthalmus maeoticus" ; Times: 4
+	Query: "Mullus barbatus" ; Times: 2
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "anchovia clupeoides" ; Times: 1
+	Query: "ku 31594" ; Times: 1
+	Query: "KU 24333" ; Times: 3
+	Query: "KU 24334" ; Times: 4
+	Query: "KU 24335" ; Times: 3
+	Query: "nerophis" ; Times: 1
+	Query: "Ammodytes tobianus" ; Times: 2
+	Query: "69660" ; Times: 1
+	Query: "Acentronura" ; Times: 3
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "Neolebias ansorgii" ; Times: 1
+	Query: "munchen" ; Times: 1
+	Query: "Gadus morhua" ; Times: 2
+	Query: "Electrophorus electricus" ; Times: 6
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "KU 10367" ; Times: 3
+	Query: "ku 26495" ; Times: 2
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 1
+	Query: "KU 7379" ; Times: 3
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "Echiodon exsilium" ; Times: 2
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "KU 33106" ; Times: 1
+	Query: "Pollachius virens" ; Times: 2
+	Query: "genus:Periophthalmodon" ; Times: 2
+	Query: "ku 22536" ; Times: 2
+	Query: "specificepithet:Acanthopoma genus:Centrodraco" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "characodon lateralis" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "Petrocephalus simus" ; Times: 1
+	Query: "Hyperopisus bebe" ; Times: 1
+	Query: "specificepithet:danae genus:Chascanopsetta" ; Times: 1
+	Query: "Caristius" ; Times: 1
+	Query: "KU 26344" ; Times: 2
+	Query: "KU 24381" ; Times: 1
+	Query: "Aphyosemion australe" ; Times: 1
+	Query: "KU 24382" ; Times: 1
+	Query: "ku 30461" ; Times: 2
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Hypleurochilus springeri" ; Times: 2
+	Query: "ku 26536" ; Times: 2
+	Query: "institutioncode:ZMUC 284" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "KU 24307" ; Times: 2
+	Query: "genus:Cetomimus" ; Times: 2
+	Query: "Brycinus imberi" ; Times: 1
+	Query: "specificepithet:indagator genus:Cetomimus" ; Times: 1
+	Query: "KU 13784" ; Times: 6
+	Query: "Ammodytes marinus" ; Times: 2
+	Query: "Bothus leopardinus" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 2
+	Query: "KU 24351" ; Times: 2
+	Query: "genus:Cataetyx" ; Times: 3
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "Mullus barbatus ponticus" ; Times: 1
+	Query: "52769" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "genus:Cetonurus" ; Times: 1
+	Query: "KU 24276" ; Times: 4
+	Query: "Acipenser ruthenus" ; Times: 1
+	Query: "KU 12830" ; Times: 2
+	Query: "Ballerus ballerus" ; Times: 1
+	Query: "ku 24318" ; Times: 2
+	Query: "KU 26303" ; Times: 2
+	Query: "KU 24378" ; Times: 2
+	Query: "KU 24379" ; Times: 2
+	Query: "specificepithet:acanthopoma genus:Centrodraco" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "47505" ; Times: 1
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "Galeus melastomus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 756 download events in this period)
+Total number of records downloaded: 203
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gadus morhua" ; Times: 1
+	Query: "atractoscion nobilis" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
