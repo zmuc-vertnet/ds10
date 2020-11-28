@@ -1,0 +1,367 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 320
+Number of records retrieved in searches: 4336
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 274
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 5
+	Date: 2020-09-15 ; Times: 14
+	Date: 2020-09-16 ; Times: 73
+	Date: 2020-09-17 ; Times: 82
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-11 ; Times: 9
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-18 ; Times: 70
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 5
+	Date: 2020-09-08 ; Times: 6
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-02 ; Times: 3
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 3
+	Date: 2020-09-21 ; Times: 29
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenolabrus rupestris" ; Times: 1
+	Query: "Electrona risso" ; Times: 1
+	Query: "Beryx splendens" ; Times: 2
+	Query: "Parablennius incognitus" ; Times: 1
+	Query: "Synchiropus phaeton" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 1
+	Query: "32708" ; Times: 1
+	Query: "Ophisurus serpens" ; Times: 1
+	Query: "Syngnathus phlegon" ; Times: 1
+	Query: "Gobius auratus" ; Times: 1
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "Hygophum benoiti" ; Times: 1
+	Query: "Campogramma glaycos" ; Times: 1
+	Query: "Anthias anthias" ; Times: 1
+	Query: "Bathophilus nigerrimus" ; Times: 1
+	Query: "Psenes pellucidus" ; Times: 1
+	Query: "Pteromylaeus bovinus" ; Times: 1
+	Query: "Sphyraena flavicauda" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 1
+	Query: "Callionymus fasciatus" ; Times: 1
+	Query: "scientificname:Engraulis ringens" ; Times: 3
+	Query: "scientificname:Scomber japonicus" ; Times: 2
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "specificepithet:surinamensis genus:Batrachoides" ; Times: 1
+	Query: "Iniistius pavo" ; Times: 1
+	Query: "Clinitrachus argentatus" ; Times: 1
+	Query: "Ichthyococcus ovatus" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "Hymenocephalus italicus" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Pisodonophis semicinctus" ; Times: 1
+	Query: "Herklotsichthys punctatus" ; Times: 1
+	Query: "Cataetyx laticeps" ; Times: 1
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "Gadiculus argenteus" ; Times: 1
+	Query: "Pampus argenteus" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 5
+	Query: "Aulopus filamentosus" ; Times: 1
+	Query: "Micromesistius poutassou" ; Times: 1
+	Query: "Platax teira" ; Times: 1
+	Query: "Nemipterus japonicus" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "Umbrina canariensis" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Symbolophorus veranyi" ; Times: 1
+	Query: "Lophius budegassa" ; Times: 1
+	Query: "Notoscopelus elongatus" ; Times: 1
+	Query: "Symphodus melops" ; Times: 1
+	Query: "Chaunax pictus" ; Times: 1
+	Query: "Chelidonichthys lucerna" ; Times: 1
+	Query: "Halosaurus ovenii" ; Times: 1
+	Query: "Synodus saurus" ; Times: 1
+	Query: "KU 18147" ; Times: 1
+	Query: "Myliobatis aquila" ; Times: 1
+	Query: "Priacanthus hamrur" ; Times: 1
+	Query: "Tylerius spinosissimus" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "Acipenser sturio" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "scientificname:Vinciguerria lucetia" ; Times: 2
+	Query: "Oblada melanura" ; Times: 1
+	Query: "Parablennius tentacularis" ; Times: 1
+	Query: "Luvarus imperialis" ; Times: 1
+	Query: "Lepidion lepidion" ; Times: 1
+	Query: "Chaetodon hoefleri" ; Times: 1
+	Query: "Dentex macrophthalmus" ; Times: 1
+	Query: "Lipophrys adriaticus" ; Times: 1
+	Query: "Aphanius iberus" ; Times: 1
+	Query: "Synagrops japonicus" ; Times: 1
+	Query: "KU 32649" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Trachinotus ovatus" ; Times: 1
+	Query: "Parexocoetus mento" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "Gonostoma denudatum" ; Times: 1
+	Query: "Epigonus telescopus" ; Times: 1
+	Query: "KU 31504" ; Times: 1
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "Lestidiops jayakari" ; Times: 1
+	Query: "Myxine glutinosa" ; Times: 1
+	Query: "Diplodus annularis" ; Times: 1
+	Query: "Trachinus araneus" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "KU 5133" ; Times: 1
+	Query: "Ophidion barbatum" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "Epinephelus aeneus" ; Times: 4
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Centrolophus niger" ; Times: 4
+	Query: "Diaphus holti" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Alepocephalus rostratus" ; Times: 1
+	Query: "Gymnothorax unicolor" ; Times: 1
+	Query: "Callionymus risso" ; Times: 1
+	Query: "Gadella maraldi" ; Times: 1
+	Query: "Diplodus bellottii" ; Times: 1
+	Query: "Saurida undosquamis" ; Times: 1
+	Query: "Entelurus  aequoreus" ; Times: 1
+	Query: "Pelates quadrilineatus" ; Times: 1
+	Query: "Sparus aurata" ; Times: 1
+	Query: "Hoplostethus mediterraneus" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Regalecus glesne" ; Times: 1
+	Query: "KU 19066" ; Times: 1
+	Query: "Coryphaenoides guentheri" ; Times: 1
+	Query: "arapaima gigas" ; Times: 2
+	Query: "Trachinus radiatus" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "Hemiramphus far" ; Times: 1
+	Query: "Pomadasys incisus" ; Times: 1
+	Query: "Solea solea" ; Times: 3
+	Query: "Diplodus vulgaris" ; Times: 1
+	Query: "Lipophrys dalmatinus" ; Times: 1
+	Query: "Scomberomorus tritor" ; Times: 1
+	Query: "Notoscopelus bolini" ; Times: 1
+	Query: "Sphoeroides pachygaster" ; Times: 1
+	Query: "Apogon imberbis" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Centrolabrus exoletus" ; Times: 1
+	Query: "Nansenia oblita" ; Times: 1
+	Query: "Labrus viridis" ; Times: 1
+	Query: "Callanthias ruber" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Diplecogaster bimaculata" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Stromateus fiatola" ; Times: 1
+	Query: "Parablennius sanguinolentus" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "KU 10313" ; Times: 1
+	Query: "Spratelloides delicatulus" ; Times: 1
+	Query: "Sardinella longiceps" ; Times: 4
+	Query: "Gnathophis mystax" ; Times: 1
+	Query: "Solea senegalensis" ; Times: 1
+	Query: "Lepadogaster purpurea" ; Times: 1
+	Query: "KU 5588" ; Times: 1
+	Query: "Cyclopterus lumpus" ; Times: 1
+	Query: "Diplodus cervinus" ; Times: 1
+	Query: "Chromogobius quadrivittatus" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "Serranus atricauda" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Chelidonichthys cuculus" ; Times: 1
+	Query: "Gobius cruentatus" ; Times: 1
+	Query: "Carapus acus" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 1
+	Query: "Serranus scriba" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Tylosurus choram" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Pegusa nasuta" ; Times: 1
+	Query: "Scomberomorus commerson" ; Times: 1
+	Query: "Acantholabrus palloni" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Epinephelus malabaricus" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 1
+	Query: "Oxyurichthys papuensis" ; Times: 1
+	Query: "Thalassoma pavo" ; Times: 1
+	Query: "Coryphoblennius galerita" ; Times: 1
+	Query: "Petroscirtes ancylodon" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "Sciaena umbra" ; Times: 1
+	Query: "KU 11263" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "Echiodon dentatus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Caranx rhonchus" ; Times: 1
+	Query: "Syngnathus rostellatus" ; Times: 1
+	Query: "Benthocometes robustus" ; Times: 1
+	Query: "Acipenser gueldenstaedtii" ; Times: 1
+	Query: "KU 5280" ; Times: 1
+	Query: "Peristedion cataphractum" ; Times: 1
+	Query: "Pomadasys stridens" ; Times: 1
+	Query: "Gobius geniporus" ; Times: 1
+	Query: "Dentex maroccanus" ; Times: 1
+	Query: "Paralepis coregonoides" ; Times: 1
+	Query: "Sardinella aurita" ; Times: 1
+	Query: "KU 26688" ; Times: 1
+	Query: "KU 33106" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Lampanyctus crocodilus" ; Times: 1
+	Query: "latimeria" ; Times: 1
+	Query: "Bathypterois dubius" ; Times: 1
+	Query: "Acanthurus monroviae" ; Times: 1
+	Query: "Platycephalus indicus" ; Times: 1
+	Query: "KU 4970" ; Times: 1
+	Query: "ku 24318" ; Times: 1
+	Query: "Lutjanus argentimaculatus" ; Times: 1
+	Query: "Bothus podas" ; Times: 1
+	Query: "Taurulus bubalis" ; Times: 1
+	Query: "Monochirus hispidus" ; Times: 1
+	Query: "Bellottia apoda" ; Times: 1
+	Query: "Symphurus nigrescens" ; Times: 1
+	Query: "Trachipterus trachypterus" ; Times: 1
+	Query: "Hyporhamphus affinis" ; Times: 1
+	Query: "Galeoides decadactylus" ; Times: 1
+	Query: "Nerophis ophidion" ; Times: 1
+	Query: "Upeneus asymmetricus" ; Times: 1
+	Query: "Diplodus puntazzo" ; Times: 1
+	Query: "Tetragonurus cuvieri" ; Times: 1
+	Query: "Scorpaena scrofa" ; Times: 1
+	Query: "Siganus rivulatus" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "Diaphus rafinesquii" ; Times: 1
+	Query: "Centroscymnus coelolepis" ; Times: 1
+	Query: "Muraenesox cinereus" ; Times: 1
+	Query: "Schedophilus medusophagus" ; Times: 1
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "Helicolenus dactylopterus" ; Times: 1
+	Query: "Trachyrincus scabrus" ; Times: 1
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "Sphyraena chrysotaenia" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Huso huso" ; Times: 1
+	Query: "Sudis hyalina" ; Times: 1
+	Query: "Dussumieria acuta" ; Times: 1
+	Query: "Belone svetovidovi" ; Times: 1
+	Query: "Coris julis" ; Times: 1
+	Query: "KU 13537" ; Times: 1
+	Query: "Trygonorhina" ; Times: 1
+	Query: "Acanthocybium solandri" ; Times: 1
+	Query: "specificepithet:diadematus institutioncode:ZMUC" ; Times: 2
+	Query: "Moenkhausia pittieri" ; Times: 1
+	Query: "KU 19100" ; Times: 3
+	Query: "Uranoscopus scaber" ; Times: 1
+	Query: "KU 10347" ; Times: 2
+	Query: "Hyporhamphus picarti" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "Ophidion rochei" ; Times: 1
+	Query: "Cynoponticus ferox" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Acipenser stellatus" ; Times: 1
+	Query: "Phycis phycis" ; Times: 1
+	Query: "Pomatoschistus pictus" ; Times: 1
+	Query: "Schedophilus ovalis" ; Times: 1
+	Query: "Zebrus zebrus" ; Times: 1
+	Query: "Diaphus metopoclampus" ; Times: 1
+	Query: "Pegusa lascaris" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "scientificname:Trachurus murphyi" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "Pagellus bellottii" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Muraena helena" ; Times: 1
+	Query: "Lepadogaster lepadogaster" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "Somniosus rostratus" ; Times: 1
+	Query: "Pomatoschistus microps" ; Times: 1
+	Query: "Myctophum punctatum" ; Times: 1
+	Query: "Lebetus guilleti" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "Sarpa salpa" ; Times: 1
+	Query: "Exocoetus obtusirostris" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 1
+	Query: "Orcynopsis unicolor" ; Times: 1
+	Query: "Scophthalmus maximus" ; Times: 1
+	Query: "Gymnammodytes cicerelus" ; Times: 1
+	Query: "SNM 19792" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Oxynotus centrina" ; Times: 1
+	Query: "Nezumia aequalis" ; Times: 1
+	Query: "Minyichthys sentus" ; Times: 1
+	Query: "Stephanolepis diaspros" ; Times: 1
+	Query: "Salaria pavo" ; Times: 1
+	Query: "Gobius ater" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "Parablennius gattorugine" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "Plotosus lineatus" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 1
+	Query: "Etmopterus spinax" ; Times: 1
+	Query: "Dasyatis centroura" ; Times: 1
+	Query: "Parablennius pilicornis" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Parablennius rouxi" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "KU 7571" ; Times: 1
+	Query: "Raja radula" ; Times: 1
+	Query: "Atherina hepsetus" ; Times: 1
+	Query: "Mora moro" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 976 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Moenkhausia pittieri" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "Girardinus metallicus" ; Times: 1
+	Query: "Gambusia" ; Times: 1
+
+
+End of report.
