@@ -1,0 +1,230 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 721
+Number of records retrieved in searches: 6277
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 56
+	Country: Peru ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 627
+	Country: Austria ; Times: 1
+	Country: China ; Times: 6
+	Country: Ireland ; Times: 1
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 28
+	Date: 2020-06-06 ; Times: 4
+	Date: 2020-06-07 ; Times: 5
+	Date: 2020-06-04 ; Times: 20
+	Date: 2020-06-05 ; Times: 10
+	Date: 2020-06-02 ; Times: 5
+	Date: 2020-06-03 ; Times: 9
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-15 ; Times: 93
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-10 ; Times: 226
+	Date: 2020-06-11 ; Times: 222
+	Date: 2020-06-17 ; Times: 89
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "Batrachocottus baicalensis" ; Times: 6
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "37841" ; Times: 1
+	Query: "Chaetobranchus semifasciatus" ; Times: 1
+	Query: "Trichomycterus dispar" ; Times: 1
+	Query: "Gudusia chapra" ; Times: 1
+	Query: "Tridens melanops" ; Times: 1
+	Query: "neoceratias spinifer" ; Times: 1
+	Query: "Chrysichthys nigrodigitatus" ; Times: 6
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "ophisurus serpens" ; Times: 2
+	Query: "Capoeta capoeta" ; Times: 6
+	Query: "9610 KU" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Sardinella jussieu" ; Times: 6
+	Query: "Cottocomephorus inermis" ; Times: 6
+	Query: "59011" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "Stolephorus chinensis" ; Times: 12
+	Query: "Amblyrhynchichthys truncatus" ; Times: 12
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "myliobatis aquila" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "snyderidia canina" ; Times: 1
+	Query: "periophthalmodon schlosseri" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Arius venosus" ; Times: 6
+	Query: "searsioides multispinus" ; Times: 1
+	Query: "Abramis brama" ; Times: 6
+	Query: "Thryssa kammalensis" ; Times: 6
+	Query: "Decapterus maruadsi" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "minyichthys brachyrhinus" ; Times: 1
+	Query: "Plotosus canius" ; Times: 6
+	Query: "microphotolepis schmidti" ; Times: 1
+	Query: "notolepis coatsi" ; Times: 1
+	Query: "Sardinella brachysoma" ; Times: 6
+	Query: "21019 KU" ; Times: 1
+	Query: "Osphronemus goramy" ; Times: 6
+	Query: "Cichla temensis" ; Times: 1
+	Query: "lestidiops sphyraenopsis" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "27797 KU" ; Times: 2
+	Query: "KU 25190" ; Times: 1
+	Query: "16440 KU" ; Times: 1
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "Ctenopharyngodon idellus" ; Times: 6
+	Query: "persparsia kopua" ; Times: 1
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "Eleotris fusca" ; Times: 6
+	Query: "Taenioides anguillaris" ; Times: 6
+	Query: "19410 KU" ; Times: 2
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "odontostomias micropogon" ; Times: 1
+	Query: "Coregonus oxyrinchus" ; Times: 6
+	Query: "Sardinella fimbriata" ; Times: 6
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Barbichthys laevis" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Labeo pangusia" ; Times: 6
+	Query: "Pomatoschistus minutus" ; Times: 6
+	Query: "Leiognathus brevirostris" ; Times: 6
+	Query: "rhombosolea tapirina" ; Times: 1
+	Query: "5615 KU" ; Times: 1
+	Query: "microlophichthys microlophus" ; Times: 1
+	Query: "sicyases sanguineus" ; Times: 1
+	Query: "Sardinella albella" ; Times: 6
+	Query: "lampanyctodes hectoris" ; Times: 1
+	Query: "Siganus spinus" ; Times: 6
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Cynotilapia afra" ; Times: 6
+	Query: "Labeo fimbriatus" ; Times: 6
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Glyptothorax trilineatus" ; Times: 6
+	Query: "Ilisha melastoma" ; Times: 6
+	Query: "Arius leptonotacanthus" ; Times: 6
+	Query: "raja miraletus" ; Times: 2
+	Query: "Trichomycterus punctulatus" ; Times: 1
+	Query: "Ambassis gymnocephalus" ; Times: 6
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "Labeo angra" ; Times: 6
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "12108 KU" ; Times: 1
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "23676 KU" ; Times: 1
+	Query: "penetopteryx taeniocephalus" ; Times: 1
+	Query: "Hunde" ; Times: 1
+	Query: "oxyconger leptognathus" ; Times: 1
+	Query: "Indostomus paradoxus" ; Times: 6
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "rhynchorhamphus georgii" ; Times: 1
+	Query: "Heteropneustes fossilis" ; Times: 6
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "scartelaos histophorus" ; Times: 1
+	Query: "odontamblyopus rubicundus" ; Times: 1
+	Query: "carassius gibelio" ; Times: 1
+	Query: "KU-14876" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Thryssa dussumieri" ; Times: 6
+	Query: "rosenblattia robusta" ; Times: 2
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "niphon spinosus" ; Times: 3
+	Query: "Glossogobius giuris" ; Times: 6
+	Query: "Comephorus dybowskii" ; Times: 6
+	Query: "Thynnichthys thynnoides" ; Times: 6
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "mustelus manazo" ; Times: 2
+	Query: "luciosudis normani" ; Times: 1
+	Query: "Zoarces elongatus" ; Times: 6
+	Query: "lycodes vahlii" ; Times: 1
+	Query: "Clarias macrocephalus" ; Times: 12
+	Query: "24411 KU" ; Times: 2
+	Query: "pentherichthys atratus" ; Times: 2
+	Query: "oblada melanura" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 6
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "Atule mate" ; Times: 6
+	Query: "Coregonus lavaretus" ; Times: 6
+	Query: "Hirundichthys speculiger" ; Times: 6
+	Query: "Scomberomorus concolor" ; Times: 6
+	Query: "Labeo rohita" ; Times: 6
+	Query: "Lepidocephalichthys hasselti" ; Times: 6
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "Ramnogaster arcuata" ; Times: 1
+	Query: "Arius latiscutatus" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Taenioides cirratus" ; Times: 6
+	Query: "Odontamblyopus rubicundus" ; Times: 6
+	Query: "Butis butis" ; Times: 6
+	Query: "Pomatoschistus microps" ; Times: 6
+	Query: "10752 KU" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Mystacoleucus marginatus" ; Times: 12
+	Query: "Cottus poecilopus" ; Times: 6
+	Query: "Pseudorasbora parva" ; Times: 6
+	Query: "Labeo calbasu" ; Times: 6
+	Query: "Coregonus albula" ; Times: 6
+	Query: "Oligolepis acutipennis" ; Times: 3
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "sebastes mentella" ; Times: 3
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "12751 KU" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Ketengus typus" ; Times: 6
+	Query: "petrotyx hopkinsi" ; Times: 1
+	Query: "Lepturacanthus savala" ; Times: 6
+	Query: "Atherina hepsetus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 474 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Turkey ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:kentucky" ; Times: 1
+	Query: "sebastes mentella" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "carassius gibelio" ; Times: 1
+
+
+End of report.
