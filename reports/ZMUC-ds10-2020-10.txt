@@ -1,0 +1,296 @@
+Report for Institution Code ZMUC, Resource ds10
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 266
+Number of records retrieved in searches: 3518
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 38
+	Country: Russia ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: South Africa ; Times: 2
+	Country: France ; Times: 36
+	Country: United Kingdom ; Times: 137
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 35
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 6
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 6
+	Date: 2020-10-08 ; Times: 6
+	Date: 2020-10-12 ; Times: 35
+	Date: 2020-10-13 ; Times: 138
+	Date: 2020-10-10 ; Times: 4
+	Date: 2020-10-11 ; Times: 3
+	Date: 2020-10-16 ; Times: 3
+	Date: 2020-10-31 ; Times: 3
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-23 ; Times: 5
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-20 ; Times: 5
+	Date: 2020-10-27 ; Times: 6
+	Date: 2020-10-26 ; Times: 5
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-24 ; Times: 2
+	Date: 2020-10-29 ; Times: 4
+	Date: 2020-10-28 ; Times: 11
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 6
+	Date: 2020-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Trachelochismus pinnulatus" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "Petrocephalus bovei" ; Times: 1
+	Query: "Apodichthys flavidus" ; Times: 1
+	Query: "KU 24450" ; Times: 1
+	Query: "44356" ; Times: 2
+	Query: "41813" ; Times: 2
+	Query: "Malacocottus zonurus" ; Times: 1
+	Query: "Thyrsites atun" ; Times: 1
+	Query: "Anguilla japonica" ; Times: 7
+	Query: "Dictyosoma burgeri" ; Times: 1
+	Query: "Isichthys henryi" ; Times: 1
+	Query: "Batrachocottus baicalensis" ; Times: 3
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "Anomalops katoptron" ; Times: 1
+	Query: "KU 23522" ; Times: 2
+	Query: "genus:Prionotus" ; Times: 2
+	Query: "Sprattus antipodum" ; Times: 2
+	Query: "ku 23218" ; Times: 1
+	Query: "Limia perugiae" ; Times: 1
+	Query: "Psenopsis anomala" ; Times: 1
+	Query: "KU 13784" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "Eumesogrammus praecisus" ; Times: 1
+	Query: "Distichodus fasciolatus" ; Times: 1
+	Query: "Auxis thazard" ; Times: 1
+	Query: "Caspiomyzon wagneri" ; Times: 1
+	Query: "Anarhichas minor" ; Times: 1
+	Query: "42514" ; Times: 1
+	Query: "scientificname:Sudis hyalina" ; Times: 1
+	Query: "Chrysichthys nigrodigitatus" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "Chelidonichthys lucerna" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Icichthys lockingtoni" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 3
+	Query: "scientificname:Diaphus holti" ; Times: 1
+	Query: "Cheilodactylus variegatus" ; Times: 1
+	Query: "KU 23308" ; Times: 1
+	Query: "Decapterus maruadsi" ; Times: 1
+	Query: "ZMUC 31025" ; Times: 2
+	Query: "Girella tricuspidata" ; Times: 1
+	Query: "Parablennius tentacularis" ; Times: 1
+	Query: "scientificname:Notoscopelus bolini" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "scientificname:Scomberomorus tritor" ; Times: 1
+	Query: "Atherinosoma microstoma" ; Times: 1
+	Query: "scientificname:Lampanyctus pusillus" ; Times: 1
+	Query: "Coregonus oxyrinchus" ; Times: 1
+	Query: "Eleginus gracilis" ; Times: 1
+	Query: "Benthophilus macrocephalus" ; Times: 1
+	Query: "Myliobatis aquila" ; Times: 1
+	Query: "Triglops scepticus" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "Atherina boyeri" ; Times: 1
+	Query: "Chondrostoma phoxinus" ; Times: 1
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "Naucrates ductor" ; Times: 1
+	Query: "scientificname:Vinciguerria attenuata" ; Times: 1
+	Query: "Eutrigla gurnardus" ; Times: 1
+	Query: "Centrolophus niger" ; Times: 1
+	Query: "Lepidion eques" ; Times: 1
+	Query: "scientificname:Herklotsichthys punctatus" ; Times: 1
+	Query: "Selaroides leptolepis" ; Times: 1
+	Query: "Caranx ignobilis" ; Times: 1
+	Query: "Chimaera phantasma" ; Times: 1
+	Query: "Stlengis misakia" ; Times: 1
+	Query: "Gnathophis nystromi" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Sparus aurata" ; Times: 4
+	Query: "Medialuna californiensis" ; Times: 1
+	Query: "Pagellus bogaraveo" ; Times: 1
+	Query: "Myoxocephalus jaok" ; Times: 1
+	Query: "Enophrys bison" ; Times: 1
+	Query: "Arapaima" ; Times: 1
+	Query: "Engraulis japonicus" ; Times: 2
+	Query: "Carassius gibelio" ; Times: 1
+	Query: "Radulinus asprellus" ; Times: 2
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Alburnoides bipunctatus" ; Times: 1
+	Query: "62511" ; Times: 1
+	Query: "scientificname:Electrona risso" ; Times: 1
+	Query: "Hoplunnis punctata" ; Times: 1
+	Query: "scientificname:Hyporhamphus picarti" ; Times: 1
+	Query: "Raja undulata" ; Times: 1
+	Query: "scientificname:Valenciennellus tripunctulatus" ; Times: 1
+	Query: "Parastromateus niger" ; Times: 1
+	Query: "KU 19428" ; Times: 1
+	Query: "gobiopsis canalis" ; Times: 3
+	Query: "Sprattus sprattus" ; Times: 2
+	Query: "Trachurus japonicus" ; Times: 1
+	Query: "Retropinna retropinna" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "Galaxias brevipinnis" ; Times: 1
+	Query: "Asprocottus abyssalis" ; Times: 1
+	Query: "Galaxias truttaceus" ; Times: 1
+	Query: "Anchoa delicatissima" ; Times: 1
+	Query: "Brycinus nurse" ; Times: 2
+	Query: "scientificname:Nansenia oblita" ; Times: 5
+	Query: "scientificname:Syngnathus phlegon" ; Times: 1
+	Query: "Myoxocephalus stelleri" ; Times: 1
+	Query: "Marukawichthys ambulator" ; Times: 1
+	Query: "Pagellus erythrinus" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "Cobitis granoei" ; Times: 1
+	Query: "Plectropomus maculatus" ; Times: 1
+	Query: "atherina boyeri" ; Times: 1
+	Query: "Pterophyllum scalare" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "Lophonectes gallus" ; Times: 1
+	Query: "Rhombosolea tapirina" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "KU 49701" ; Times: 1
+	Query: "Scomberomorus concolor" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 1
+	Query: "Megalocottus platycephalus" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "Megalaspis cordyla" ; Times: 1
+	Query: "Myoxocephalus quadricornis" ; Times: 1
+	Query: "Batrachocottus multiradiatus" ; Times: 1
+	Query: "scientificname:Atherina hepsetus" ; Times: 1
+	Query: "Anguilla bicolor" ; Times: 1
+	Query: "Argyrops spinifer" ; Times: 1
+	Query: "scientificname:Notoscopelus elongatus" ; Times: 1
+	Query: "KU 10088" ; Times: 1
+	Query: "scientificname:Gonostoma denudatum" ; Times: 1
+	Query: "Niphon spinosus" ; Times: 1
+	Query: "Argyrozona argyrozona" ; Times: 1
+	Query: "scientificname:Stomias boa boa" ; Times: 1
+	Query: "Nessorhamphus ingolfianus" ; Times: 1
+	Query: "Hypleurochilus geminatus" ; Times: 1
+	Query: "Chrosomus neogaeus" ; Times: 1
+	Query: "54851" ; Times: 1
+	Query: "Anarhichas denticulatus" ; Times: 1
+	Query: "Myoxocephalus polyacanthocephalus" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Retropinna semoni" ; Times: 1
+	Query: "Clupea pallasii" ; Times: 1
+	Query: "Peristedion miniatum" ; Times: 1
+	Query: "genus:Coryphopterus" ; Times: 2
+	Query: "Clinocottus analis" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "Tetragonurus cuvieri" ; Times: 1
+	Query: "Pseudorasbora parva" ; Times: 1
+	Query: "Acipenser ruthenus" ; Times: 3
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "Labeo falcipinnis" ; Times: 1
+	Query: "scientificname:Lampanyctus crocodilus" ; Times: 1
+	Query: "Solenostomus" ; Times: 1
+	Query: "scientificname:Vinciguerria poweriae" ; Times: 1
+	Query: "43733" ; Times: 1
+	Query: "Cetengraulis edentulus" ; Times: 1
+	Query: "Arripis trutta" ; Times: 1
+	Query: "Alosa fallax" ; Times: 1
+	Query: "Acipenser gueldenstaedtii" ; Times: 1
+	Query: "Abyssocottus korotneffi" ; Times: 1
+	Query: "KU 37761" ; Times: 2
+	Query: "Parablennius gattorugine" ; Times: 1
+	Query: "Chelidonichthys kumu" ; Times: 1
+	Query: "Petrocephalus simus" ; Times: 1
+	Query: "Hyperopisus bebe" ; Times: 1
+	Query: "Comephorus dybowskii" ; Times: 1
+	Query: "Brycinus macrolepidotus" ; Times: 3
+	Query: "Microcottus sellaris" ; Times: 1
+	Query: "ZMUC 63102" ; Times: 1
+	Query: "Lutjanus cyanopterus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Elagatis bipinnulatus" ; Times: 1
+	Query: "Hypleurochilus springeri" ; Times: 1
+	Query: "Enophrys diceraus" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "scientificname:Campogramma glaycos" ; Times: 1
+	Query: "42953" ; Times: 1
+	Query: "scientificname:Lestidiops jayakari" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Coregonus lavaretus" ; Times: 1
+	Query: "KU 19419" ; Times: 2
+	Query: "Brycinus imberi" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "KU 12803" ; Times: 2
+	Query: "scientificname:Diaphus metopoclampus" ; Times: 1
+	Query: "Acipenser stellatus" ; Times: 2
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Hyporhamphus unifasciatus" ; Times: 1
+	Query: "KU 23218" ; Times: 1
+	Query: "Chondrostoma nasus" ; Times: 1
+	Query: "scientificname:Acanthocybium solandri" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "scientificname:Alopias vulpinus" ; Times: 2
+	Query: "Eleotris fusca" ; Times: 1
+	Query: "scientificname:Scomberesox saurus saurus" ; Times: 1
+	Query: "scientificname:Lobianchia dofleini" ; Times: 1
+	Query: "Asprocottus herzensteini" ; Times: 1
+	Query: "Parablennius rouxi" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 5
+	Query: "12803" ; Times: 1
+	Query: "Lepidotrigla microptera" ; Times: 1
+	Query: "scientificname:Tylosurus acus acus" ; Times: 1
+	Query: "66015" ; Times: 1
+	Query: "Aldrichetta forsteri" ; Times: 2
+	Query: "Ballerus ballerus" ; Times: 2
+	Query: "Parablennius yatabei" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 1
+	Query: "Abramis brama" ; Times: 2
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Cheilodactylus quadricornis" ; Times: 1
+	Query: "Parablennius pilicornis" ; Times: 1
+	Query: "Uraspis helvola" ; Times: 1
+	Query: "Batrachocottus nikolskii" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "Bolinichthys distofax" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1521 download events in this period)
+Total number of records downloaded: 186
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: South Africa ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Limia perugiae" ; Times: 1
+	Query: "family:Triglidae" ; Times: 1
+	Query: "Bolinichthys distofax" ; Times: 2
+
+
+End of report.
